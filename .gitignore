@@ -1,3 +1,27 @@
-/venv/
-./venv/
+# Virtual environments
+.venv/
 venv/
+env/
+
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Local cache & temporary files
+.cache/
+cache/*
+*.tmp
+*.log
+
+# Environment variables & secrets
+.env
+.env.*
+!.env.example
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

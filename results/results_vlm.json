@@ -1,0 +1,287 @@
+[
+  {
+    "outlet_id": "outlet_003a29a9",
+    "total_images": 8,
+    "flagged_images": [],
+    "ranking": [
+      "image_0001.jpg",
+      "image_0002.jpg",
+      "image_0003.jpg",
+      "image_0004.jpg",
+      "image_0006.jpg",
+      "image_0008.jpg",
+      "image_0005.jpg",
+      "image_0007.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_004449c0",
+    "total_images": 10,
+    "flagged_images": [],
+    "ranking": [
+      "image_0002.jpg",
+      "image_0001.jpg",
+      "image_0003.jpg",
+      "image_0004.jpg",
+      "image_0005.jpg",
+      "image_0006.jpg",
+      "image_0007.jpg",
+      "image_0008.jpg",
+      "image_0009.jpg",
+      "image_0010.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_01e0d230",
+    "total_images": 17,
+    "flagged_images": [
+      {
+        "file_name": "image_0003.jpg",
+        "suspicion_score": 0.9,
+        "reason": "Signage mismatch - storefront displays 'Cash Out 70.70' conflicting with outlet identity 'bkash'"
+      },
+      {
+        "file_name": "image_0004.jpg",
+        "suspicion_score": 0.88,
+        "reason": "Storefront mismatch - tea stall restaurant photo inconsistent with outlet's established telecom recharge history"
+      }
+    ],
+    "ranking": [
+      "image_0003.jpg",
+      "image_0004.jpg",
+      "image_0001.jpg",
+      "image_0002.jpg",
+      "image_0006.jpg",
+      "image_0009.jpg",
+      "image_0011.jpg",
+      "image_0012.jpg",
+      "image_0013.jpg",
+      "image_0014.jpg",
+      "image_0015.jpg",
+      "image_0016.jpg",
+      "image_0017.jpg",
+      "image_0005.jpg",
+      "image_0007.jpg",
+      "image_0008.jpg",
+      "image_0010.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_0280ccb5",
+    "total_images": 32,
+    "flagged_images": [
+      {
+        "file_name": "image_0025.jpg",
+        "suspicion_score": 0.9,
+        "reason": "Signage mismatch - storefront displays 'Sobidha Ubal' conflicting with outlet identity 'nokshor network'"
+      }
+    ],
+    "ranking": [
+      "image_0025.jpg",
+      "image_0002.jpg",
+      "image_0003.jpg",
+      "image_0004.jpg",
+      "image_0005.jpg",
+      "image_0006.jpg",
+      "image_0008.jpg",
+      "image_0009.jpg",
+      "image_0010.jpg",
+      "image_0011.jpg",
+      "image_0012.jpg",
+      "image_0013.jpg",
+      "image_0014.jpg",
+      "image_0015.jpg",
+      "image_0017.jpg",
+      "image_0018.jpg",
+      "image_0020.jpg",
+      "image_0021.jpg",
+      "image_0022.jpg",
+      "image_0023.jpg",
+      "image_0027.jpg",
+      "image_0031.jpg",
+      "image_0032.jpg",
+      "image_0001.jpg",
+      "image_0007.jpg",
+      "image_0016.jpg",
+      "image_0019.jpg",
+      "image_0024.jpg",
+      "image_0026.jpg",
+      "image_0028.jpg",
+      "image_0029.jpg",
+      "image_0030.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_04473281",
+    "total_images": 13,
+    "flagged_images": [
+      {
+        "file_name": "image_0007.jpg",
+        "suspicion_score": 0.88,
+        "reason": "Storefront mismatch - grocery general store photo inconsistent with outlet's established furniture store history"
+      }
+    ],
+    "ranking": [
+      "image_0007.jpg",
+      "image_0001_1.jpg",
+      "image_0002.jpg",
+      "image_0002_1.jpg",
+      "image_0003.jpg",
+      "image_0004.jpg",
+      "image_0001.jpg",
+      "image_0005.jpg",
+      "image_0006.jpg",
+      "image_0008.jpg",
+      "image_0009.jpg",
+      "image_0010.jpg",
+      "image_0011.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_045f93b1",
+    "total_images": 17,
+    "flagged_images": [],
+    "ranking": [
+      "image_0002_1.jpg",
+      "image_0004.jpg",
+      "image_0005.jpg",
+      "image_0015.jpg",
+      "image_0001.jpg",
+      "image_0001_1.jpg",
+      "image_0002.jpg",
+      "image_0003.jpg",
+      "image_0006.jpg",
+      "image_0007.jpg",
+      "image_0008.jpg",
+      "image_0009.jpg",
+      "image_0010.jpg",
+      "image_0011.jpg",
+      "image_0012.jpg",
+      "image_0013.jpg",
+      "image_0014.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_055c59bd",
+    "total_images": 9,
+    "flagged_images": [],
+    "ranking": [
+      "image_0001.jpg",
+      "image_0002.jpg",
+      "image_0003.jpg",
+      "image_0004.jpg",
+      "image_0005.jpg",
+      "image_0006.jpg",
+      "image_0007.jpg",
+      "image_0008.jpg",
+      "image_0009.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_083cd34a",
+    "total_images": 9,
+    "flagged_images": [
+      {
+        "file_name": "image_0002.jpg",
+        "suspicion_score": 0.95,
+        "reason": "Unrelated scene - photo does not depict a retail outlet storefront (: A dark, covered outdoor area featuring a corrugated tin roof and a blue ping pong table, situated next to a brick wall with white drainage pipes.)"
+      }
+    ],
+    "ranking": [
+      "image_0002.jpg",
+      "image_0001.jpg",
+      "image_0003.jpg",
+      "image_0004.jpg",
+      "image_0005.jpg",
+      "image_0006.jpg",
+      "image_0007.jpg",
+      "image_0008.jpg",
+      "image_0009.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_08e8ac70",
+    "total_images": 15,
+    "flagged_images": [],
+    "ranking": [
+      "image_0002.jpg",
+      "image_0004.jpg",
+      "image_0005.jpg",
+      "image_0010.jpg",
+      "image_0015.jpg",
+      "image_0001.jpg",
+      "image_0003.jpg",
+      "image_0006.jpg",
+      "image_0007.jpg",
+      "image_0008.jpg",
+      "image_0009.jpg",
+      "image_0011.jpg",
+      "image_0012.jpg",
+      "image_0013.jpg",
+      "image_0014.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_0a2befe6",
+    "total_images": 13,
+    "flagged_images": [],
+    "ranking": [
+      "image_0012.jpg",
+      "image_0001.jpg",
+      "image_0002.jpg",
+      "image_0003.jpg",
+      "image_0004.jpg",
+      "image_0005.jpg",
+      "image_0006.jpg",
+      "image_0007.jpg",
+      "image_0008.jpg",
+      "image_0009.jpg",
+      "image_0010.jpg",
+      "image_0011.jpg",
+      "image_0013.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_0af952cd",
+    "total_images": 12,
+    "flagged_images": [],
+    "ranking": [
+      "image_0003.jpg",
+      "image_0004.jpg",
+      "image_0005.jpg",
+      "image_0006.jpg",
+      "image_0007.jpg",
+      "image_0008.jpg",
+      "image_0009.jpg",
+      "image_0010.jpg",
+      "image_0012.jpg",
+      "image_0001.jpg",
+      "image_0002.jpg",
+      "image_0011.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_0c0e85b4",
+    "total_images": 11,
+    "flagged_images": [
+      {
+        "file_name": "image_0001.jpg",
+        "suspicion_score": 0.95,
+        "reason": "Unrelated scene - photo does not depict a retail outlet storefront (: A blurry, low-light image showing a closed storefront secured by a dark, expandable metal security gate.)"
+      }
+    ],
+    "ranking": [
+      "image_0001.jpg",
+      "image_0003.jpg",
+      "image_0005.jpg",
+      "image_0009.jpg",
+      "image_0010.jpg",
+      "image_0011.jpg",
+      "image_0002.jpg",
+      "image_0004.jpg",
+      "image_0006.jpg",
+      "image_0007.jpg",
+      "image_0008.jpg"
+    ]
+  }
+]
