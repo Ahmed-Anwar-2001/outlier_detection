@@ -1,0 +1,4959 @@
+[
+  {
+    "outlet_id": "outlet_003a29a9",
+    "total_images": 8,
+    "flagged_images": [
+      {
+        "file_name": "image_0008.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0001.jpg",
+        "suspicion_score": 0.626,
+        "reason": "Minor anomaly — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0008.jpg",
+      "image_0001.jpg",
+      "image_0004.jpg",
+      "image_0002.jpg",
+      "image_0003.jpg",
+      "image_0007.jpg",
+      "image_0005.jpg",
+      "image_0006.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_004449c0",
+    "total_images": 10,
+    "flagged_images": [
+      {
+        "file_name": "image_0005.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0005.jpg",
+      "image_0008.jpg",
+      "image_0002.jpg",
+      "image_0010.jpg",
+      "image_0004.jpg",
+      "image_0003.jpg",
+      "image_0009.jpg",
+      "image_0001.jpg",
+      "image_0006.jpg",
+      "image_0007.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_01e0d230",
+    "total_images": 17,
+    "flagged_images": [
+      {
+        "file_name": "image_0009.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0001.jpg",
+        "suspicion_score": 0.8418,
+        "reason": "Moderate visual inconsistency — distinct color palette and branding/signage mismatch compared to typical outlet visits"
+      }
+    ],
+    "ranking": [
+      "image_0009.jpg",
+      "image_0001.jpg",
+      "image_0005.jpg",
+      "image_0002.jpg",
+      "image_0003.jpg",
+      "image_0007.jpg",
+      "image_0004.jpg",
+      "image_0006.jpg",
+      "image_0015.jpg",
+      "image_0010.jpg",
+      "image_0017.jpg",
+      "image_0014.jpg",
+      "image_0008.jpg",
+      "image_0013.jpg",
+      "image_0016.jpg",
+      "image_0012.jpg",
+      "image_0011.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_0280ccb5",
+    "total_images": 32,
+    "flagged_images": [
+      {
+        "file_name": "image_0002.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0027.jpg",
+        "suspicion_score": 0.8573,
+        "reason": "Highly anomalous image — dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0031.jpg",
+        "suspicion_score": 0.8568,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0032.jpg",
+        "suspicion_score": 0.8568,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0015.jpg",
+        "suspicion_score": 0.4897,
+        "reason": "Minor anomaly — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0002.jpg",
+      "image_0027.jpg",
+      "image_0031.jpg",
+      "image_0032.jpg",
+      "image_0015.jpg",
+      "image_0014.jpg",
+      "image_0020.jpg",
+      "image_0021.jpg",
+      "image_0026.jpg",
+      "image_0010.jpg",
+      "image_0011.jpg",
+      "image_0029.jpg",
+      "image_0030.jpg",
+      "image_0006.jpg",
+      "image_0025.jpg",
+      "image_0022.jpg",
+      "image_0001.jpg",
+      "image_0004.jpg",
+      "image_0023.jpg",
+      "image_0005.jpg",
+      "image_0008.jpg",
+      "image_0017.jpg",
+      "image_0012.jpg",
+      "image_0007.jpg",
+      "image_0028.jpg",
+      "image_0016.jpg",
+      "image_0013.jpg",
+      "image_0003.jpg",
+      "image_0009.jpg",
+      "image_0024.jpg",
+      "image_0018.jpg",
+      "image_0019.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_04473281",
+    "total_images": 13,
+    "flagged_images": [
+      {
+        "file_name": "image_0002_1.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0001_1.jpg",
+        "suspicion_score": 0.8244,
+        "reason": "Moderate visual inconsistency — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0006.jpg",
+        "suspicion_score": 0.2703,
+        "reason": "Minor anomaly — distinct color palette and branding/signage mismatch relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0002_1.jpg",
+      "image_0001_1.jpg",
+      "image_0006.jpg",
+      "image_0007.jpg",
+      "image_0008.jpg",
+      "image_0004.jpg",
+      "image_0001.jpg",
+      "image_0003.jpg",
+      "image_0011.jpg",
+      "image_0005.jpg",
+      "image_0010.jpg",
+      "image_0002.jpg",
+      "image_0009.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_045f93b1",
+    "total_images": 17,
+    "flagged_images": [
+      {
+        "file_name": "image_0002_1.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0003.jpg",
+        "suspicion_score": 0.9532,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0001.jpg",
+        "suspicion_score": 0.5274,
+        "reason": "Minor anomaly — dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0002_1.jpg",
+      "image_0003.jpg",
+      "image_0001.jpg",
+      "image_0013.jpg",
+      "image_0001_1.jpg",
+      "image_0002.jpg",
+      "image_0005.jpg",
+      "image_0007.jpg",
+      "image_0004.jpg",
+      "image_0012.jpg",
+      "image_0015.jpg",
+      "image_0014.jpg",
+      "image_0006.jpg",
+      "image_0008.jpg",
+      "image_0010.jpg",
+      "image_0011.jpg",
+      "image_0009.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_055c59bd",
+    "total_images": 9,
+    "flagged_images": [
+      {
+        "file_name": "image_0003.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0002.jpg",
+        "suspicion_score": 0.5658,
+        "reason": "Minor anomaly — dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0001.jpg",
+        "suspicion_score": 0.442,
+        "reason": "Minor anomaly — dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0003.jpg",
+      "image_0002.jpg",
+      "image_0001.jpg",
+      "image_0008.jpg",
+      "image_0009.jpg",
+      "image_0005.jpg",
+      "image_0004.jpg",
+      "image_0006.jpg",
+      "image_0007.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_083cd34a",
+    "total_images": 9,
+    "flagged_images": [
+      {
+        "file_name": "image_0001.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0008.jpg",
+        "suspicion_score": 0.5572,
+        "reason": "Minor anomaly — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0001.jpg",
+      "image_0008.jpg",
+      "image_0009.jpg",
+      "image_0003.jpg",
+      "image_0002.jpg",
+      "image_0006.jpg",
+      "image_0007.jpg",
+      "image_0005.jpg",
+      "image_0004.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_08e8ac70",
+    "total_images": 15,
+    "flagged_images": [
+      {
+        "file_name": "image_0007.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0015.jpg",
+        "suspicion_score": 0.4262,
+        "reason": "Minor anomaly — divergent edge geometry and storefront structural lines relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0006.jpg",
+        "suspicion_score": 0.3671,
+        "reason": "Minor anomaly — distinct color palette and branding/signage mismatch relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0007.jpg",
+      "image_0015.jpg",
+      "image_0006.jpg",
+      "image_0001.jpg",
+      "image_0013.jpg",
+      "image_0011.jpg",
+      "image_0003.jpg",
+      "image_0008.jpg",
+      "image_0002.jpg",
+      "image_0010.jpg",
+      "image_0012.jpg",
+      "image_0005.jpg",
+      "image_0004.jpg",
+      "image_0014.jpg",
+      "image_0009.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_0a2befe6",
+    "total_images": 13,
+    "flagged_images": [
+      {
+        "file_name": "image_0003.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0004.jpg",
+        "suspicion_score": 0.3984,
+        "reason": "Minor anomaly — dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0005.jpg",
+        "suspicion_score": 0.3524,
+        "reason": "Minor anomaly — low visual similarity to the outlet's historical photo cluster relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0003.jpg",
+      "image_0004.jpg",
+      "image_0005.jpg",
+      "image_0002.jpg",
+      "image_0006.jpg",
+      "image_0001.jpg",
+      "image_0011.jpg",
+      "image_0012.jpg",
+      "image_0013.jpg",
+      "image_0008.jpg",
+      "image_0010.jpg",
+      "image_0009.jpg",
+      "image_0007.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_0af952cd",
+    "total_images": 12,
+    "flagged_images": [
+      {
+        "file_name": "image_0003.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0011.jpg",
+        "suspicion_score": 0.5015,
+        "reason": "Minor anomaly — low visual similarity to the outlet's historical photo cluster relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0003.jpg",
+      "image_0011.jpg",
+      "image_0002.jpg",
+      "image_0004.jpg",
+      "image_0008.jpg",
+      "image_0007.jpg",
+      "image_0001.jpg",
+      "image_0012.jpg",
+      "image_0006.jpg",
+      "image_0005.jpg",
+      "image_0010.jpg",
+      "image_0009.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_0c0e85b4",
+    "total_images": 11,
+    "flagged_images": [
+      {
+        "file_name": "image_0001.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0002.jpg",
+        "suspicion_score": 0.577,
+        "reason": "Minor anomaly — dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0001.jpg",
+      "image_0002.jpg",
+      "image_0008.jpg",
+      "image_0003.jpg",
+      "image_0007.jpg",
+      "image_0010.jpg",
+      "image_0006.jpg",
+      "image_0011.jpg",
+      "image_0005.jpg",
+      "image_0009.jpg",
+      "image_0004.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_108e6eab",
+    "total_images": 21,
+    "flagged_images": [
+      {
+        "file_name": "image_0018.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0017.jpg",
+        "suspicion_score": 0.8822,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0006.jpg",
+        "suspicion_score": 0.8513,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0019.jpg",
+        "suspicion_score": 0.7258,
+        "reason": "Moderate visual inconsistency — divergent edge geometry and storefront structural lines compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0016.jpg",
+        "suspicion_score": 0.6078,
+        "reason": "Minor anomaly — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0018.jpg",
+      "image_0017.jpg",
+      "image_0006.jpg",
+      "image_0019.jpg",
+      "image_0016.jpg",
+      "image_0013.jpg",
+      "image_0001.jpg",
+      "image_0009.jpg",
+      "image_0003.jpg",
+      "image_0015.jpg",
+      "image_0002.jpg",
+      "image_0010.jpg",
+      "image_0021.jpg",
+      "image_0014.jpg",
+      "image_0020.jpg",
+      "image_0011.jpg",
+      "image_0007.jpg",
+      "image_0004.jpg",
+      "image_0005.jpg",
+      "image_0012.jpg",
+      "image_0008.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_10c7ca00",
+    "total_images": 17,
+    "flagged_images": [
+      {
+        "file_name": "image_0005.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0013.jpg",
+        "suspicion_score": 0.6983,
+        "reason": "Moderate visual inconsistency — distinct color palette and branding/signage mismatch, dissimilar overall scene composition and spatial layout compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0004.jpg",
+        "suspicion_score": 0.3409,
+        "reason": "Minor anomaly — low visual similarity to the outlet's historical photo cluster relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0005.jpg",
+      "image_0013.jpg",
+      "image_0004.jpg",
+      "image_0016.jpg",
+      "image_0015.jpg",
+      "image_0011.jpg",
+      "image_0006.jpg",
+      "image_0008.jpg",
+      "image_0017.jpg",
+      "image_0014.jpg",
+      "image_0003.jpg",
+      "image_0010.jpg",
+      "image_0012.jpg",
+      "image_0002.jpg",
+      "image_0009.jpg",
+      "image_0007.jpg",
+      "image_0001.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_11da187e",
+    "total_images": 5,
+    "flagged_images": [
+      {
+        "file_name": "image_0001_1.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0003.jpg",
+        "suspicion_score": 0.3001,
+        "reason": "Minor anomaly — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0001_1.jpg",
+      "image_0003.jpg",
+      "image_0001.jpg",
+      "image_0002_1.jpg",
+      "image_0002.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_146ab59b",
+    "total_images": 26,
+    "flagged_images": [
+      {
+        "file_name": "image_0025.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0016.jpg",
+        "suspicion_score": 0.9032,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0020.jpg",
+        "suspicion_score": 0.7476,
+        "reason": "Moderate visual inconsistency — dissimilar overall scene composition and spatial layout compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0026.jpg",
+        "suspicion_score": 0.6647,
+        "reason": "Moderate visual inconsistency — dissimilar overall scene composition and spatial layout compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0018.jpg",
+        "suspicion_score": 0.6358,
+        "reason": "Minor anomaly — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0014.jpg",
+        "suspicion_score": 0.6016,
+        "reason": "Minor anomaly — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0017.jpg",
+        "suspicion_score": 0.518,
+        "reason": "Minor anomaly — divergent edge geometry and storefront structural lines relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0021.jpg",
+        "suspicion_score": 0.4678,
+        "reason": "Minor anomaly — low visual similarity to the outlet's historical photo cluster relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0023.jpg",
+        "suspicion_score": 0.4347,
+        "reason": "Minor anomaly — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0025.jpg",
+      "image_0016.jpg",
+      "image_0020.jpg",
+      "image_0026.jpg",
+      "image_0018.jpg",
+      "image_0014.jpg",
+      "image_0017.jpg",
+      "image_0021.jpg",
+      "image_0023.jpg",
+      "image_0003.jpg",
+      "image_0022.jpg",
+      "image_0019.jpg",
+      "image_0013.jpg",
+      "image_0004.jpg",
+      "image_0012.jpg",
+      "image_0002.jpg",
+      "image_0024.jpg",
+      "image_0007.jpg",
+      "image_0008.jpg",
+      "image_0009.jpg",
+      "image_0010.jpg",
+      "image_0015.jpg",
+      "image_0001.jpg",
+      "image_0005.jpg",
+      "image_0011.jpg",
+      "image_0006.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_16412021",
+    "total_images": 5,
+    "flagged_images": [],
+    "ranking": [
+      "image_0004.jpg",
+      "image_0005.jpg",
+      "image_0003.jpg",
+      "image_0001.jpg",
+      "image_0002.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_176ee853",
+    "total_images": 14,
+    "flagged_images": [
+      {
+        "file_name": "image_0013.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0014.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0013.jpg",
+      "image_0014.jpg",
+      "image_0012.jpg",
+      "image_0008.jpg",
+      "image_0011.jpg",
+      "image_0003.jpg",
+      "image_0010.jpg",
+      "image_0009.jpg",
+      "image_0006.jpg",
+      "image_0004.jpg",
+      "image_0005.jpg",
+      "image_0002.jpg",
+      "image_0001.jpg",
+      "image_0007.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_1a444d86",
+    "total_images": 27,
+    "flagged_images": [
+      {
+        "file_name": "image_0005.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines; unrelated to all other visits; likely a completely different location"
+      }
+    ],
+    "ranking": [
+      "image_0005.jpg",
+      "image_0001_1.jpg",
+      "image_0002_1.jpg",
+      "image_0016.jpg",
+      "image_0003_1.jpg",
+      "image_0014.jpg",
+      "image_0004_1.jpg",
+      "image_0015.jpg",
+      "image_0019.jpg",
+      "image_0017.jpg",
+      "image_0018.jpg",
+      "image_0006.jpg",
+      "image_0013.jpg",
+      "image_0007.jpg",
+      "image_0008.jpg",
+      "image_0009.jpg",
+      "image_0010.jpg",
+      "image_0011.jpg",
+      "image_0020.jpg",
+      "image_0021.jpg",
+      "image_0004.jpg",
+      "image_0022.jpg",
+      "image_0002.jpg",
+      "image_0012.jpg",
+      "image_0003.jpg",
+      "image_0001.jpg",
+      "image_0023.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_1a4910c8",
+    "total_images": 29,
+    "flagged_images": [
+      {
+        "file_name": "image_0028.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0029.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0027.jpg",
+        "suspicion_score": 0.9154,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0024.jpg",
+        "suspicion_score": 0.8281,
+        "reason": "Moderate visual inconsistency — divergent edge geometry and storefront structural lines compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0001.jpg",
+        "suspicion_score": 0.7125,
+        "reason": "Moderate visual inconsistency — low visual similarity to the outlet's historical photo cluster compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0022.jpg",
+        "suspicion_score": 0.6502,
+        "reason": "Moderate visual inconsistency — low visual similarity to the outlet's historical photo cluster compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0012.jpg",
+        "suspicion_score": 0.6447,
+        "reason": "Minor anomaly — low visual similarity to the outlet's historical photo cluster relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0028.jpg",
+      "image_0029.jpg",
+      "image_0027.jpg",
+      "image_0024.jpg",
+      "image_0001.jpg",
+      "image_0022.jpg",
+      "image_0012.jpg",
+      "image_0004.jpg",
+      "image_0026.jpg",
+      "image_0019.jpg",
+      "image_0013.jpg",
+      "image_0002.jpg",
+      "image_0021.jpg",
+      "image_0003.jpg",
+      "image_0023.jpg",
+      "image_0016.jpg",
+      "image_0017.jpg",
+      "image_0007.jpg",
+      "image_0005.jpg",
+      "image_0006.jpg",
+      "image_0025.jpg",
+      "image_0018.jpg",
+      "image_0011.jpg",
+      "image_0020.jpg",
+      "image_0014.jpg",
+      "image_0008.jpg",
+      "image_0010.jpg",
+      "image_0015.jpg",
+      "image_0009.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_1aa573b9",
+    "total_images": 14,
+    "flagged_images": [
+      {
+        "file_name": "image_0003.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0003.jpg",
+      "image_0007.jpg",
+      "image_0012.jpg",
+      "image_0002.jpg",
+      "image_0010.jpg",
+      "image_0014.jpg",
+      "image_0001.jpg",
+      "image_0006.jpg",
+      "image_0005.jpg",
+      "image_0009.jpg",
+      "image_0008.jpg",
+      "image_0004.jpg",
+      "image_0011.jpg",
+      "image_0013.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_1b2b051c",
+    "total_images": 8,
+    "flagged_images": [
+      {
+        "file_name": "image_0001.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0002.jpg",
+        "suspicion_score": 0.626,
+        "reason": "Minor anomaly — divergent edge geometry and storefront structural lines relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0001.jpg",
+      "image_0002.jpg",
+      "image_0007.jpg",
+      "image_0008.jpg",
+      "image_0004.jpg",
+      "image_0005.jpg",
+      "image_0003.jpg",
+      "image_0006.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_1ce36f39",
+    "total_images": 15,
+    "flagged_images": [
+      {
+        "file_name": "image_0001.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0001.jpg",
+      "image_0010.jpg",
+      "image_0007.jpg",
+      "image_0002.jpg",
+      "image_0006.jpg",
+      "image_0012.jpg",
+      "image_0003.jpg",
+      "image_0015.jpg",
+      "image_0011.jpg",
+      "image_0008.jpg",
+      "image_0013.jpg",
+      "image_0004.jpg",
+      "image_0014.jpg",
+      "image_0009.jpg",
+      "image_0005.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_1f28f2e3",
+    "total_images": 19,
+    "flagged_images": [
+      {
+        "file_name": "image_0013.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0017.jpg",
+        "suspicion_score": 0.9549,
+        "reason": "Highly anomalous image — dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0013.jpg",
+      "image_0017.jpg",
+      "image_0003.jpg",
+      "image_0008.jpg",
+      "image_0004.jpg",
+      "image_0005.jpg",
+      "image_0006.jpg",
+      "image_0002.jpg",
+      "image_0019.jpg",
+      "image_0011.jpg",
+      "image_0014.jpg",
+      "image_0010.jpg",
+      "image_0007.jpg",
+      "image_0001.jpg",
+      "image_0015.jpg",
+      "image_0018.jpg",
+      "image_0016.jpg",
+      "image_0009.jpg",
+      "image_0012.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_256287da",
+    "total_images": 7,
+    "flagged_images": [
+      {
+        "file_name": "image_0006.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0006.jpg",
+      "image_0007.jpg",
+      "image_0005.jpg",
+      "image_0003.jpg",
+      "image_0001.jpg",
+      "image_0004.jpg",
+      "image_0002.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_264cdac2",
+    "total_images": 5,
+    "flagged_images": [
+      {
+        "file_name": "image_0002.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — low visual similarity to the outlet's historical photo cluster; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0002.jpg",
+      "image_0002_1.jpg",
+      "image_0001_1.jpg",
+      "image_0003.jpg",
+      "image_0001.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_2790dc54",
+    "total_images": 8,
+    "flagged_images": [
+      {
+        "file_name": "image_0002.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0002.jpg",
+      "image_0008.jpg",
+      "image_0003.jpg",
+      "image_0007.jpg",
+      "image_0006.jpg",
+      "image_0004.jpg",
+      "image_0001.jpg",
+      "image_0005.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_282fec27",
+    "total_images": 11,
+    "flagged_images": [],
+    "ranking": [
+      "image_0011.jpg",
+      "image_0010.jpg",
+      "image_0006.jpg",
+      "image_0003.jpg",
+      "image_0001.jpg",
+      "image_0002.jpg",
+      "image_0005.jpg",
+      "image_0009.jpg",
+      "image_0008.jpg",
+      "image_0004.jpg",
+      "image_0007.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_288f9f47",
+    "total_images": 18,
+    "flagged_images": [
+      {
+        "file_name": "image_0001_1.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0002_1.jpg",
+        "suspicion_score": 0.6821,
+        "reason": "Moderate visual inconsistency — distinct color palette and branding/signage mismatch, dissimilar overall scene composition and spatial layout compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0005.jpg",
+        "suspicion_score": 0.3567,
+        "reason": "Minor anomaly — divergent edge geometry and storefront structural lines relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0001_1.jpg",
+      "image_0002_1.jpg",
+      "image_0005.jpg",
+      "image_0012.jpg",
+      "image_0013.jpg",
+      "image_0016.jpg",
+      "image_0003.jpg",
+      "image_0004.jpg",
+      "image_0014.jpg",
+      "image_0009.jpg",
+      "image_0011.jpg",
+      "image_0006.jpg",
+      "image_0007.jpg",
+      "image_0015.jpg",
+      "image_0008.jpg",
+      "image_0001.jpg",
+      "image_0002.jpg",
+      "image_0010.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_28e3acec",
+    "total_images": 30,
+    "flagged_images": [
+      {
+        "file_name": "image_0001_1_1.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0002_1.jpg",
+        "suspicion_score": 0.8637,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0002_2.jpg",
+        "suspicion_score": 0.8145,
+        "reason": "Moderate visual inconsistency — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0001_1.jpg",
+        "suspicion_score": 0.6074,
+        "reason": "Minor anomaly — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0003_1.jpg",
+        "suspicion_score": 0.4126,
+        "reason": "Minor anomaly — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0001_2.jpg",
+        "suspicion_score": 0.3673,
+        "reason": "Minor anomaly — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0001_1_1.jpg",
+      "image_0002_1.jpg",
+      "image_0002_2.jpg",
+      "image_0001_1.jpg",
+      "image_0003_1.jpg",
+      "image_0001_2.jpg",
+      "image_0019.jpg",
+      "image_0002.jpg",
+      "image_0007.jpg",
+      "image_0003.jpg",
+      "image_0001.jpg",
+      "image_0005.jpg",
+      "image_0018.jpg",
+      "image_0004.jpg",
+      "image_0011.jpg",
+      "image_0009.jpg",
+      "image_0020.jpg",
+      "image_0016.jpg",
+      "image_0006.jpg",
+      "image_0013.jpg",
+      "image_0024.jpg",
+      "image_0008.jpg",
+      "image_0010.jpg",
+      "image_0017.jpg",
+      "image_0022.jpg",
+      "image_0023.jpg",
+      "image_0014.jpg",
+      "image_0021.jpg",
+      "image_0012.jpg",
+      "image_0015.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_29139154",
+    "total_images": 11,
+    "flagged_images": [
+      {
+        "file_name": "image_0011.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0004.jpg",
+        "suspicion_score": 0.9188,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0011.jpg",
+      "image_0004.jpg",
+      "image_0001.jpg",
+      "image_0002.jpg",
+      "image_0007.jpg",
+      "image_0010.jpg",
+      "image_0006.jpg",
+      "image_0008.jpg",
+      "image_0005.jpg",
+      "image_0009.jpg",
+      "image_0003.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_2df55e25",
+    "total_images": 5,
+    "flagged_images": [
+      {
+        "file_name": "image_0001.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0001.jpg",
+      "image_0004.jpg",
+      "image_0002.jpg",
+      "image_0003.jpg",
+      "image_0005.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_2e2f0c83",
+    "total_images": 14,
+    "flagged_images": [],
+    "ranking": [
+      "image_0005.jpg",
+      "image_0010.jpg",
+      "image_0003.jpg",
+      "image_0012.jpg",
+      "image_0004.jpg",
+      "image_0008.jpg",
+      "image_0014.jpg",
+      "image_0007.jpg",
+      "image_0009.jpg",
+      "image_0002.jpg",
+      "image_0006.jpg",
+      "image_0013.jpg",
+      "image_0001.jpg",
+      "image_0011.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_2ed27fc4",
+    "total_images": 10,
+    "flagged_images": [
+      {
+        "file_name": "image_0004_1.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0004_1.jpg",
+      "image_0002.jpg",
+      "image_0001.jpg",
+      "image_0002_1.jpg",
+      "image_0003.jpg",
+      "image_0004.jpg",
+      "image_0006.jpg",
+      "image_0001_1.jpg",
+      "image_0003_1.jpg",
+      "image_0005.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_2fed22e2",
+    "total_images": 11,
+    "flagged_images": [
+      {
+        "file_name": "image_0001.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0011.jpg",
+        "suspicion_score": 0.4879,
+        "reason": "Minor anomaly — distinct color palette and branding/signage mismatch, dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0001.jpg",
+      "image_0011.jpg",
+      "image_0007.jpg",
+      "image_0008.jpg",
+      "image_0006.jpg",
+      "image_0009.jpg",
+      "image_0004.jpg",
+      "image_0002.jpg",
+      "image_0003.jpg",
+      "image_0010.jpg",
+      "image_0005.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_31cc0334",
+    "total_images": 14,
+    "flagged_images": [
+      {
+        "file_name": "image_0005.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0005.jpg",
+      "image_0013.jpg",
+      "image_0002.jpg",
+      "image_0011.jpg",
+      "image_0010.jpg",
+      "image_0003.jpg",
+      "image_0004.jpg",
+      "image_0007.jpg",
+      "image_0009.jpg",
+      "image_0001.jpg",
+      "image_0012.jpg",
+      "image_0006.jpg",
+      "image_0014.jpg",
+      "image_0008.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_349bc0a8",
+    "total_images": 19,
+    "flagged_images": [
+      {
+        "file_name": "image_0001_1.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0007.jpg",
+        "suspicion_score": 0.7602,
+        "reason": "Moderate visual inconsistency — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0002_1.jpg",
+        "suspicion_score": 0.4774,
+        "reason": "Minor anomaly — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0003_1.jpg",
+        "suspicion_score": 0.4765,
+        "reason": "Minor anomaly — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0016.jpg",
+        "suspicion_score": 0.4581,
+        "reason": "Minor anomaly — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0001.jpg",
+        "suspicion_score": 0.3421,
+        "reason": "Minor anomaly — distinct color palette and branding/signage mismatch, dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0006.jpg",
+        "suspicion_score": 0.2141,
+        "reason": "Minor anomaly — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0001_1.jpg",
+      "image_0007.jpg",
+      "image_0002_1.jpg",
+      "image_0003_1.jpg",
+      "image_0016.jpg",
+      "image_0001.jpg",
+      "image_0006.jpg",
+      "image_0004.jpg",
+      "image_0015.jpg",
+      "image_0003.jpg",
+      "image_0008.jpg",
+      "image_0005.jpg",
+      "image_0013.jpg",
+      "image_0011.jpg",
+      "image_0009.jpg",
+      "image_0010.jpg",
+      "image_0002.jpg",
+      "image_0012.jpg",
+      "image_0014.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_36017925",
+    "total_images": 11,
+    "flagged_images": [
+      {
+        "file_name": "image_0002.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0006.jpg",
+        "suspicion_score": 0.8609,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0011.jpg",
+        "suspicion_score": 0.8299,
+        "reason": "Moderate visual inconsistency — dissimilar overall scene composition and spatial layout compared to typical outlet visits"
+      }
+    ],
+    "ranking": [
+      "image_0002.jpg",
+      "image_0006.jpg",
+      "image_0011.jpg",
+      "image_0005.jpg",
+      "image_0008.jpg",
+      "image_0001.jpg",
+      "image_0010.jpg",
+      "image_0009.jpg",
+      "image_0004.jpg",
+      "image_0007.jpg",
+      "image_0003.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_36bfbfba",
+    "total_images": 8,
+    "flagged_images": [
+      {
+        "file_name": "image_0005.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — low visual similarity to the outlet's historical photo cluster; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0005.jpg",
+      "image_0001.jpg",
+      "image_0007.jpg",
+      "image_0003.jpg",
+      "image_0002.jpg",
+      "image_0006.jpg",
+      "image_0004.jpg",
+      "image_0008.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_376cc0f6",
+    "total_images": 10,
+    "flagged_images": [
+      {
+        "file_name": "image_0004.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      }
+    ],
+    "ranking": [
+      "image_0004.jpg",
+      "image_0002.jpg",
+      "image_0010.jpg",
+      "image_0009.jpg",
+      "image_0006.jpg",
+      "image_0005.jpg",
+      "image_0001.jpg",
+      "image_0003.jpg",
+      "image_0008.jpg",
+      "image_0007.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_3bb172c5",
+    "total_images": 16,
+    "flagged_images": [
+      {
+        "file_name": "image_0015.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0010.jpg",
+        "suspicion_score": 0.6747,
+        "reason": "Moderate visual inconsistency — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0011.jpg",
+        "suspicion_score": 0.6747,
+        "reason": "Moderate visual inconsistency — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0001.jpg",
+        "suspicion_score": 0.6681,
+        "reason": "Moderate visual inconsistency — low visual similarity to the outlet's historical photo cluster compared to typical outlet visits"
+      }
+    ],
+    "ranking": [
+      "image_0015.jpg",
+      "image_0010.jpg",
+      "image_0011.jpg",
+      "image_0001.jpg",
+      "image_0013.jpg",
+      "image_0007.jpg",
+      "image_0009.jpg",
+      "image_0014.jpg",
+      "image_0012.jpg",
+      "image_0016.jpg",
+      "image_0004.jpg",
+      "image_0006.jpg",
+      "image_0002.jpg",
+      "image_0005.jpg",
+      "image_0003.jpg",
+      "image_0008.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_3c954cee",
+    "total_images": 6,
+    "flagged_images": [
+      {
+        "file_name": "image_0001.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0001.jpg",
+      "image_0004.jpg",
+      "image_0003.jpg",
+      "image_0005.jpg",
+      "image_0006.jpg",
+      "image_0002.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_3cf44c1c",
+    "total_images": 5,
+    "flagged_images": [],
+    "ranking": [
+      "image_0002.jpg",
+      "image_0001.jpg",
+      "image_0003.jpg",
+      "image_0005.jpg",
+      "image_0004.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_3d493e9d",
+    "total_images": 10,
+    "flagged_images": [
+      {
+        "file_name": "image_0007.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0003.jpg",
+        "suspicion_score": 0.8985,
+        "reason": "Highly anomalous image — dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0007.jpg",
+      "image_0003.jpg",
+      "image_0010.jpg",
+      "image_0008.jpg",
+      "image_0005.jpg",
+      "image_0002.jpg",
+      "image_0009.jpg",
+      "image_0004.jpg",
+      "image_0001.jpg",
+      "image_0006.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_3f09815b",
+    "total_images": 6,
+    "flagged_images": [
+      {
+        "file_name": "image_0006.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0005.jpg",
+        "suspicion_score": 0.6893,
+        "reason": "Moderate visual inconsistency — distinct color palette and branding/signage mismatch compared to typical outlet visits"
+      }
+    ],
+    "ranking": [
+      "image_0006.jpg",
+      "image_0005.jpg",
+      "image_0003.jpg",
+      "image_0002.jpg",
+      "image_0004.jpg",
+      "image_0001.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_4057fa9f",
+    "total_images": 5,
+    "flagged_images": [
+      {
+        "file_name": "image_0005.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — low visual similarity to the outlet's historical photo cluster; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0005.jpg",
+      "image_0004.jpg",
+      "image_0001.jpg",
+      "image_0003.jpg",
+      "image_0002.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_4369bd99",
+    "total_images": 10,
+    "flagged_images": [
+      {
+        "file_name": "image_0006.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0006.jpg",
+      "image_0003.jpg",
+      "image_0008.jpg",
+      "image_0010.jpg",
+      "image_0009.jpg",
+      "image_0004.jpg",
+      "image_0002.jpg",
+      "image_0007.jpg",
+      "image_0001.jpg",
+      "image_0005.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_459bb23b",
+    "total_images": 8,
+    "flagged_images": [
+      {
+        "file_name": "image_0007.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0003.jpg",
+        "suspicion_score": 0.2399,
+        "reason": "Minor anomaly — distinct color palette and branding/signage mismatch relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0007.jpg",
+      "image_0003.jpg",
+      "image_0008.jpg",
+      "image_0002.jpg",
+      "image_0001.jpg",
+      "image_0006.jpg",
+      "image_0004.jpg",
+      "image_0005.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_459c1a69",
+    "total_images": 16,
+    "flagged_images": [
+      {
+        "file_name": "image_0010.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0013.jpg",
+        "suspicion_score": 0.85,
+        "reason": "Highly anomalous image — low visual similarity to the outlet's historical photo cluster; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0010.jpg",
+      "image_0013.jpg",
+      "image_0009.jpg",
+      "image_0011.jpg",
+      "image_0002.jpg",
+      "image_0001.jpg",
+      "image_0014.jpg",
+      "image_0008.jpg",
+      "image_0015.jpg",
+      "image_0012.jpg",
+      "image_0016.jpg",
+      "image_0006.jpg",
+      "image_0005.jpg",
+      "image_0004.jpg",
+      "image_0003.jpg",
+      "image_0007.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_47cf0cdd",
+    "total_images": 27,
+    "flagged_images": [],
+    "ranking": [
+      "image_0024.jpg",
+      "image_0023.jpg",
+      "image_0016.jpg",
+      "image_0027.jpg",
+      "image_0007.jpg",
+      "image_0017.jpg",
+      "image_0010.jpg",
+      "image_0002.jpg",
+      "image_0005.jpg",
+      "image_0018.jpg",
+      "image_0025.jpg",
+      "image_0015.jpg",
+      "image_0026.jpg",
+      "image_0011.jpg",
+      "image_0006.jpg",
+      "image_0001.jpg",
+      "image_0022.jpg",
+      "image_0003.jpg",
+      "image_0013.jpg",
+      "image_0012.jpg",
+      "image_0020.jpg",
+      "image_0019.jpg",
+      "image_0008.jpg",
+      "image_0014.jpg",
+      "image_0009.jpg",
+      "image_0021.jpg",
+      "image_0004.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_486748c6",
+    "total_images": 5,
+    "flagged_images": [],
+    "ranking": [
+      "image_0003.jpg",
+      "image_0002.jpg",
+      "image_0004.jpg",
+      "image_0005.jpg",
+      "image_0001.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_4a66821b",
+    "total_images": 12,
+    "flagged_images": [
+      {
+        "file_name": "image_0008.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0004.jpg",
+        "suspicion_score": 0.1485,
+        "reason": "Minor anomaly — low visual similarity to the outlet's historical photo cluster relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0008.jpg",
+      "image_0004.jpg",
+      "image_0003.jpg",
+      "image_0009.jpg",
+      "image_0005.jpg",
+      "image_0001.jpg",
+      "image_0006.jpg",
+      "image_0010.jpg",
+      "image_0011.jpg",
+      "image_0002.jpg",
+      "image_0012.jpg",
+      "image_0007.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_4ba8e6fb",
+    "total_images": 14,
+    "flagged_images": [
+      {
+        "file_name": "image_0004_1.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0004_1.jpg",
+      "image_0002_1.jpg",
+      "image_0001_1.jpg",
+      "image_0003.jpg",
+      "image_0002.jpg",
+      "image_0003_1.jpg",
+      "image_0008.jpg",
+      "image_0006.jpg",
+      "image_0007.jpg",
+      "image_0004.jpg",
+      "image_0010.jpg",
+      "image_0001.jpg",
+      "image_0009.jpg",
+      "image_0005.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_4bbeb21b",
+    "total_images": 21,
+    "flagged_images": [
+      {
+        "file_name": "image_0018.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0019.jpg",
+        "suspicion_score": 0.7957,
+        "reason": "Moderate visual inconsistency — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout compared to typical outlet visits"
+      }
+    ],
+    "ranking": [
+      "image_0018.jpg",
+      "image_0019.jpg",
+      "image_0011.jpg",
+      "image_0006.jpg",
+      "image_0001.jpg",
+      "image_0005.jpg",
+      "image_0020.jpg",
+      "image_0004.jpg",
+      "image_0007.jpg",
+      "image_0012.jpg",
+      "image_0021.jpg",
+      "image_0003.jpg",
+      "image_0008.jpg",
+      "image_0009.jpg",
+      "image_0002.jpg",
+      "image_0017.jpg",
+      "image_0016.jpg",
+      "image_0015.jpg",
+      "image_0010.jpg",
+      "image_0013.jpg",
+      "image_0014.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_4eaf2e47",
+    "total_images": 9,
+    "flagged_images": [
+      {
+        "file_name": "image_0001_2.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      }
+    ],
+    "ranking": [
+      "image_0001_2.jpg",
+      "image_0001_1.jpg",
+      "image_0006.jpg",
+      "image_0002.jpg",
+      "image_0001_1_1.jpg",
+      "image_0001.jpg",
+      "image_0005.jpg",
+      "image_0003.jpg",
+      "image_0004.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_5234b92a",
+    "total_images": 22,
+    "flagged_images": [
+      {
+        "file_name": "image_0001_1.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0002_1.jpg",
+        "suspicion_score": 0.6288,
+        "reason": "Minor anomaly — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0004_1.jpg",
+        "suspicion_score": 0.5985,
+        "reason": "Minor anomaly — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0003_1.jpg",
+        "suspicion_score": 0.5674,
+        "reason": "Minor anomaly — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0001_1.jpg",
+      "image_0002_1.jpg",
+      "image_0004_1.jpg",
+      "image_0003_1.jpg",
+      "image_0001.jpg",
+      "image_0005.jpg",
+      "image_0003.jpg",
+      "image_0009.jpg",
+      "image_0002.jpg",
+      "image_0010.jpg",
+      "image_0012.jpg",
+      "image_0013.jpg",
+      "image_0008.jpg",
+      "image_0006.jpg",
+      "image_0014.jpg",
+      "image_0016.jpg",
+      "image_0011.jpg",
+      "image_0018.jpg",
+      "image_0004.jpg",
+      "image_0017.jpg",
+      "image_0015.jpg",
+      "image_0007.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_539b60a1",
+    "total_images": 12,
+    "flagged_images": [
+      {
+        "file_name": "image_0005.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0005.jpg",
+      "image_0004.jpg",
+      "image_0002.jpg",
+      "image_0006.jpg",
+      "image_0001.jpg",
+      "image_0003.jpg",
+      "image_0010.jpg",
+      "image_0007.jpg",
+      "image_0009.jpg",
+      "image_0012.jpg",
+      "image_0011.jpg",
+      "image_0008.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_53ea491f",
+    "total_images": 13,
+    "flagged_images": [
+      {
+        "file_name": "image_0005.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0004.jpg",
+        "suspicion_score": 0.7505,
+        "reason": "Moderate visual inconsistency — divergent edge geometry and storefront structural lines compared to typical outlet visits"
+      }
+    ],
+    "ranking": [
+      "image_0005.jpg",
+      "image_0004.jpg",
+      "image_0002.jpg",
+      "image_0010.jpg",
+      "image_0007.jpg",
+      "image_0011.jpg",
+      "image_0009.jpg",
+      "image_0008.jpg",
+      "image_0013.jpg",
+      "image_0003.jpg",
+      "image_0001.jpg",
+      "image_0012.jpg",
+      "image_0006.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_5be5b163",
+    "total_images": 7,
+    "flagged_images": [
+      {
+        "file_name": "image_0003.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0003.jpg",
+      "image_0001.jpg",
+      "image_0002.jpg",
+      "image_0005.jpg",
+      "image_0007.jpg",
+      "image_0006.jpg",
+      "image_0004.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_5c8120ae",
+    "total_images": 15,
+    "flagged_images": [
+      {
+        "file_name": "image_0001.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0015.jpg",
+        "suspicion_score": 0.9026,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0001.jpg",
+      "image_0015.jpg",
+      "image_0011.jpg",
+      "image_0003.jpg",
+      "image_0002.jpg",
+      "image_0009.jpg",
+      "image_0012.jpg",
+      "image_0014.jpg",
+      "image_0013.jpg",
+      "image_0010.jpg",
+      "image_0007.jpg",
+      "image_0004.jpg",
+      "image_0008.jpg",
+      "image_0005.jpg",
+      "image_0006.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_5d690cb1",
+    "total_images": 11,
+    "flagged_images": [],
+    "ranking": [
+      "image_0002.jpg",
+      "image_0005.jpg",
+      "image_0004.jpg",
+      "image_0003.jpg",
+      "image_0011.jpg",
+      "image_0010.jpg",
+      "image_0001.jpg",
+      "image_0008.jpg",
+      "image_0006.jpg",
+      "image_0009.jpg",
+      "image_0007.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_5edce88b",
+    "total_images": 10,
+    "flagged_images": [
+      {
+        "file_name": "image_0009.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0009.jpg",
+      "image_0003.jpg",
+      "image_0001.jpg",
+      "image_0008.jpg",
+      "image_0010.jpg",
+      "image_0002.jpg",
+      "image_0004.jpg",
+      "image_0006.jpg",
+      "image_0005.jpg",
+      "image_0007.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_5fb892d3",
+    "total_images": 5,
+    "flagged_images": [
+      {
+        "file_name": "image_0004.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines; unrelated to all other visits; likely a completely different location"
+      }
+    ],
+    "ranking": [
+      "image_0004.jpg",
+      "image_0003.jpg",
+      "image_0005.jpg",
+      "image_0001.jpg",
+      "image_0002.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_6087824b",
+    "total_images": 15,
+    "flagged_images": [
+      {
+        "file_name": "image_0015.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0006.jpg",
+        "suspicion_score": 0.9586,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0013.jpg",
+        "suspicion_score": 0.6882,
+        "reason": "Moderate visual inconsistency — dissimilar overall scene composition and spatial layout compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0005.jpg",
+        "suspicion_score": 0.6434,
+        "reason": "Minor anomaly — divergent edge geometry and storefront structural lines relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0015.jpg",
+      "image_0006.jpg",
+      "image_0013.jpg",
+      "image_0005.jpg",
+      "image_0011.jpg",
+      "image_0014.jpg",
+      "image_0010.jpg",
+      "image_0001.jpg",
+      "image_0002.jpg",
+      "image_0012.jpg",
+      "image_0003.jpg",
+      "image_0009.jpg",
+      "image_0007.jpg",
+      "image_0008.jpg",
+      "image_0004.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_612f8240",
+    "total_images": 19,
+    "flagged_images": [
+      {
+        "file_name": "image_0005.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0002_1.jpg",
+        "suspicion_score": 0.9692,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0013.jpg",
+        "suspicion_score": 0.8148,
+        "reason": "Moderate visual inconsistency — dissimilar overall scene composition and spatial layout compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0001_1.jpg",
+        "suspicion_score": 0.7883,
+        "reason": "Moderate visual inconsistency — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0017.jpg",
+        "suspicion_score": 0.453,
+        "reason": "Minor anomaly — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0005.jpg",
+      "image_0002_1.jpg",
+      "image_0013.jpg",
+      "image_0001_1.jpg",
+      "image_0017.jpg",
+      "image_0004.jpg",
+      "image_0010.jpg",
+      "image_0007.jpg",
+      "image_0016.jpg",
+      "image_0008.jpg",
+      "image_0001.jpg",
+      "image_0006.jpg",
+      "image_0014.jpg",
+      "image_0003.jpg",
+      "image_0009.jpg",
+      "image_0002.jpg",
+      "image_0015.jpg",
+      "image_0012.jpg",
+      "image_0011.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_63a4bb52",
+    "total_images": 13,
+    "flagged_images": [
+      {
+        "file_name": "image_0005.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0005.jpg",
+      "image_0003.jpg",
+      "image_0004.jpg",
+      "image_0012.jpg",
+      "image_0009.jpg",
+      "image_0002.jpg",
+      "image_0006.jpg",
+      "image_0001.jpg",
+      "image_0013.jpg",
+      "image_0010.jpg",
+      "image_0007.jpg",
+      "image_0008.jpg",
+      "image_0011.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_647a174b",
+    "total_images": 9,
+    "flagged_images": [
+      {
+        "file_name": "image_0005.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0005.jpg",
+      "image_0009.jpg",
+      "image_0007.jpg",
+      "image_0004.jpg",
+      "image_0002.jpg",
+      "image_0006.jpg",
+      "image_0001.jpg",
+      "image_0003.jpg",
+      "image_0008.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_648ccd9a",
+    "total_images": 12,
+    "flagged_images": [
+      {
+        "file_name": "image_0003_1.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0001_1.jpg",
+        "suspicion_score": 0.9155,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0003_1.jpg",
+      "image_0001_1.jpg",
+      "image_0005.jpg",
+      "image_0002_1.jpg",
+      "image_0008.jpg",
+      "image_0006.jpg",
+      "image_0004.jpg",
+      "image_0002.jpg",
+      "image_0007.jpg",
+      "image_0001.jpg",
+      "image_0003.jpg",
+      "image_0009.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_66dff2a1",
+    "total_images": 18,
+    "flagged_images": [
+      {
+        "file_name": "image_0017.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0015.jpg",
+        "suspicion_score": 0.6513,
+        "reason": "Moderate visual inconsistency — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0002.jpg",
+        "suspicion_score": 0.5401,
+        "reason": "Minor anomaly — low visual similarity to the outlet's historical photo cluster relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0017.jpg",
+      "image_0015.jpg",
+      "image_0002.jpg",
+      "image_0001_1.jpg",
+      "image_0009.jpg",
+      "image_0008.jpg",
+      "image_0003.jpg",
+      "image_0016.jpg",
+      "image_0004.jpg",
+      "image_0014.jpg",
+      "image_0010.jpg",
+      "image_0001.jpg",
+      "image_0007.jpg",
+      "image_0011.jpg",
+      "image_0013.jpg",
+      "image_0006.jpg",
+      "image_0005.jpg",
+      "image_0012.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_680cfd33",
+    "total_images": 12,
+    "flagged_images": [
+      {
+        "file_name": "image_0001_1.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      }
+    ],
+    "ranking": [
+      "image_0001_1.jpg",
+      "image_0001.jpg",
+      "image_0003_1.jpg",
+      "image_0004_1.jpg",
+      "image_0007.jpg",
+      "image_0006.jpg",
+      "image_0002_1.jpg",
+      "image_0008.jpg",
+      "image_0002.jpg",
+      "image_0003.jpg",
+      "image_0004.jpg",
+      "image_0005.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_68bc17a7",
+    "total_images": 30,
+    "flagged_images": [
+      {
+        "file_name": "image_0004.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0018.jpg",
+        "suspicion_score": 0.8616,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0028.jpg",
+        "suspicion_score": 0.8311,
+        "reason": "Moderate visual inconsistency — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0024.jpg",
+        "suspicion_score": 0.8278,
+        "reason": "Moderate visual inconsistency — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0003.jpg",
+        "suspicion_score": 0.7854,
+        "reason": "Moderate visual inconsistency — dissimilar overall scene composition and spatial layout compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0016.jpg",
+        "suspicion_score": 0.6707,
+        "reason": "Moderate visual inconsistency — divergent edge geometry and storefront structural lines compared to typical outlet visits"
+      }
+    ],
+    "ranking": [
+      "image_0004.jpg",
+      "image_0018.jpg",
+      "image_0028.jpg",
+      "image_0024.jpg",
+      "image_0003.jpg",
+      "image_0016.jpg",
+      "image_0021.jpg",
+      "image_0023.jpg",
+      "image_0030.jpg",
+      "image_0029.jpg",
+      "image_0014.jpg",
+      "image_0020.jpg",
+      "image_0001.jpg",
+      "image_0013.jpg",
+      "image_0017.jpg",
+      "image_0011.jpg",
+      "image_0006.jpg",
+      "image_0019.jpg",
+      "image_0026.jpg",
+      "image_0008.jpg",
+      "image_0009.jpg",
+      "image_0012.jpg",
+      "image_0005.jpg",
+      "image_0002.jpg",
+      "image_0027.jpg",
+      "image_0010.jpg",
+      "image_0015.jpg",
+      "image_0025.jpg",
+      "image_0022.jpg",
+      "image_0007.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_6aa59f2b",
+    "total_images": 40,
+    "flagged_images": [
+      {
+        "file_name": "image_0034.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0002_1.jpg",
+        "suspicion_score": 0.554,
+        "reason": "Minor anomaly — dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0003_1.jpg",
+        "suspicion_score": 0.5348,
+        "reason": "Minor anomaly — dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0001_1.jpg",
+        "suspicion_score": 0.5184,
+        "reason": "Minor anomaly — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0036.jpg",
+        "suspicion_score": 0.4903,
+        "reason": "Minor anomaly — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0009.jpg",
+        "suspicion_score": 0.4803,
+        "reason": "Minor anomaly — divergent edge geometry and storefront structural lines relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0034.jpg",
+      "image_0002_1.jpg",
+      "image_0003_1.jpg",
+      "image_0001_1.jpg",
+      "image_0036.jpg",
+      "image_0009.jpg",
+      "image_0007.jpg",
+      "image_0004_1.jpg",
+      "image_0020.jpg",
+      "image_0021.jpg",
+      "image_0002.jpg",
+      "image_0004.jpg",
+      "image_0008.jpg",
+      "image_0016.jpg",
+      "image_0006.jpg",
+      "image_0025.jpg",
+      "image_0003.jpg",
+      "image_0005.jpg",
+      "image_0015.jpg",
+      "image_0024.jpg",
+      "image_0001.jpg",
+      "image_0014.jpg",
+      "image_0029.jpg",
+      "image_0030.jpg",
+      "image_0026.jpg",
+      "image_0023.jpg",
+      "image_0032.jpg",
+      "image_0035.jpg",
+      "image_0011.jpg",
+      "image_0012.jpg",
+      "image_0013.jpg",
+      "image_0027.jpg",
+      "image_0028.jpg",
+      "image_0019.jpg",
+      "image_0031.jpg",
+      "image_0033.jpg",
+      "image_0010.jpg",
+      "image_0018.jpg",
+      "image_0017.jpg",
+      "image_0022.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_6b2080bc",
+    "total_images": 6,
+    "flagged_images": [
+      {
+        "file_name": "image_0001.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0003.jpg",
+        "suspicion_score": 0.9879,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0001.jpg",
+      "image_0003.jpg",
+      "image_0005.jpg",
+      "image_0002.jpg",
+      "image_0004.jpg",
+      "image_0006.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_6cd2f45a",
+    "total_images": 6,
+    "flagged_images": [
+      {
+        "file_name": "image_0002.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0002.jpg",
+      "image_0004.jpg",
+      "image_0005.jpg",
+      "image_0006.jpg",
+      "image_0003.jpg",
+      "image_0001.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_6df6bcc9",
+    "total_images": 5,
+    "flagged_images": [
+      {
+        "file_name": "image_0001.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0004.jpg",
+        "suspicion_score": 0.9026,
+        "reason": "Highly anomalous image — dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0001.jpg",
+      "image_0004.jpg",
+      "image_0003.jpg",
+      "image_0002.jpg",
+      "image_0005.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_70f9bde3",
+    "total_images": 8,
+    "flagged_images": [],
+    "ranking": [
+      "image_0003.jpg",
+      "image_0005.jpg",
+      "image_0007.jpg",
+      "image_0001.jpg",
+      "image_0008.jpg",
+      "image_0002.jpg",
+      "image_0004.jpg",
+      "image_0006.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_7109ee18",
+    "total_images": 18,
+    "flagged_images": [
+      {
+        "file_name": "image_0006.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0004.jpg",
+        "suspicion_score": 0.4458,
+        "reason": "Minor anomaly — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0003.jpg",
+        "suspicion_score": 0.4173,
+        "reason": "Minor anomaly — low visual similarity to the outlet's historical photo cluster relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0006.jpg",
+      "image_0004.jpg",
+      "image_0003.jpg",
+      "image_0015.jpg",
+      "image_0016.jpg",
+      "image_0009.jpg",
+      "image_0012.jpg",
+      "image_0017.jpg",
+      "image_0018.jpg",
+      "image_0001.jpg",
+      "image_0010.jpg",
+      "image_0008.jpg",
+      "image_0014.jpg",
+      "image_0011.jpg",
+      "image_0002.jpg",
+      "image_0013.jpg",
+      "image_0005.jpg",
+      "image_0007.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_731b30e0",
+    "total_images": 6,
+    "flagged_images": [],
+    "ranking": [
+      "image_0006.jpg",
+      "image_0004.jpg",
+      "image_0005.jpg",
+      "image_0002.jpg",
+      "image_0003.jpg",
+      "image_0001.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_74d4383f",
+    "total_images": 7,
+    "flagged_images": [
+      {
+        "file_name": "image_0004.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0001.jpg",
+        "suspicion_score": 0.5295,
+        "reason": "Minor anomaly — distinct color palette and branding/signage mismatch relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0004.jpg",
+      "image_0001.jpg",
+      "image_0006.jpg",
+      "image_0002.jpg",
+      "image_0005.jpg",
+      "image_0003.jpg",
+      "image_0007.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_76e418b9",
+    "total_images": 14,
+    "flagged_images": [
+      {
+        "file_name": "image_0002_1.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0005.jpg",
+        "suspicion_score": 0.6855,
+        "reason": "Moderate visual inconsistency — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0002.jpg",
+        "suspicion_score": 0.6312,
+        "reason": "Minor anomaly — divergent edge geometry and storefront structural lines relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0012.jpg",
+        "suspicion_score": 0.5832,
+        "reason": "Minor anomaly — distinct color palette and branding/signage mismatch relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0002_1.jpg",
+      "image_0005.jpg",
+      "image_0002.jpg",
+      "image_0012.jpg",
+      "image_0001_1.jpg",
+      "image_0003.jpg",
+      "image_0007.jpg",
+      "image_0011.jpg",
+      "image_0010.jpg",
+      "image_0006.jpg",
+      "image_0008.jpg",
+      "image_0009.jpg",
+      "image_0001.jpg",
+      "image_0004.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_777f9297",
+    "total_images": 13,
+    "flagged_images": [
+      {
+        "file_name": "image_0004.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0001_1.jpg",
+        "suspicion_score": 0.5523,
+        "reason": "Minor anomaly — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0002.jpg",
+        "suspicion_score": 0.466,
+        "reason": "Minor anomaly — dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0001.jpg",
+        "suspicion_score": 0.3347,
+        "reason": "Minor anomaly — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0004.jpg",
+      "image_0001_1.jpg",
+      "image_0002.jpg",
+      "image_0001.jpg",
+      "image_0008.jpg",
+      "image_0003.jpg",
+      "image_0012.jpg",
+      "image_0006.jpg",
+      "image_0010.jpg",
+      "image_0011.jpg",
+      "image_0005.jpg",
+      "image_0009.jpg",
+      "image_0007.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_782744b7",
+    "total_images": 7,
+    "flagged_images": [
+      {
+        "file_name": "image_0003.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      }
+    ],
+    "ranking": [
+      "image_0003.jpg",
+      "image_0007.jpg",
+      "image_0002.jpg",
+      "image_0004.jpg",
+      "image_0001.jpg",
+      "image_0005.jpg",
+      "image_0006.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_7b0d7e5d",
+    "total_images": 10,
+    "flagged_images": [
+      {
+        "file_name": "image_0002_1.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0001_1.jpg",
+        "suspicion_score": 0.8308,
+        "reason": "Moderate visual inconsistency — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines compared to typical outlet visits"
+      }
+    ],
+    "ranking": [
+      "image_0002_1.jpg",
+      "image_0001_1.jpg",
+      "image_0003_1.jpg",
+      "image_0004_1.jpg",
+      "image_0004.jpg",
+      "image_0005.jpg",
+      "image_0002.jpg",
+      "image_0003.jpg",
+      "image_0001.jpg",
+      "image_0006.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_7d7b1abc",
+    "total_images": 25,
+    "flagged_images": [
+      {
+        "file_name": "image_0004.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0017.jpg",
+        "suspicion_score": 0.9031,
+        "reason": "Highly anomalous image — dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0003.jpg",
+        "suspicion_score": 0.7226,
+        "reason": "Moderate visual inconsistency — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0012.jpg",
+        "suspicion_score": 0.4916,
+        "reason": "Minor anomaly — dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0014.jpg",
+        "suspicion_score": 0.4165,
+        "reason": "Minor anomaly — dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0005.jpg",
+        "suspicion_score": 0.3051,
+        "reason": "Minor anomaly — dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0004.jpg",
+      "image_0017.jpg",
+      "image_0003.jpg",
+      "image_0012.jpg",
+      "image_0014.jpg",
+      "image_0005.jpg",
+      "image_0009.jpg",
+      "image_0002.jpg",
+      "image_0008.jpg",
+      "image_0001.jpg",
+      "image_0015.jpg",
+      "image_0007.jpg",
+      "image_0011.jpg",
+      "image_0010.jpg",
+      "image_0006.jpg",
+      "image_0013.jpg",
+      "image_0021.jpg",
+      "image_0018.jpg",
+      "image_0019.jpg",
+      "image_0016.jpg",
+      "image_0025.jpg",
+      "image_0022.jpg",
+      "image_0020.jpg",
+      "image_0023.jpg",
+      "image_0024.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_7f1dd575",
+    "total_images": 10,
+    "flagged_images": [
+      {
+        "file_name": "image_0002.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      }
+    ],
+    "ranking": [
+      "image_0002.jpg",
+      "image_0007.jpg",
+      "image_0001_1.jpg",
+      "image_0008.jpg",
+      "image_0009.jpg",
+      "image_0001.jpg",
+      "image_0003.jpg",
+      "image_0006.jpg",
+      "image_0005.jpg",
+      "image_0004.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_8033796b",
+    "total_images": 12,
+    "flagged_images": [
+      {
+        "file_name": "image_0012.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0008.jpg",
+        "suspicion_score": 0.3844,
+        "reason": "Minor anomaly — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0012.jpg",
+      "image_0008.jpg",
+      "image_0001.jpg",
+      "image_0010.jpg",
+      "image_0009.jpg",
+      "image_0002.jpg",
+      "image_0006.jpg",
+      "image_0004.jpg",
+      "image_0005.jpg",
+      "image_0003.jpg",
+      "image_0011.jpg",
+      "image_0007.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_817272f8",
+    "total_images": 5,
+    "flagged_images": [],
+    "ranking": [
+      "image_0003.jpg",
+      "image_0005.jpg",
+      "image_0004.jpg",
+      "image_0001.jpg",
+      "image_0002.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_827dd729",
+    "total_images": 14,
+    "flagged_images": [
+      {
+        "file_name": "image_0001_1.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0001_1.jpg",
+      "image_0002.jpg",
+      "image_0003.jpg",
+      "image_0012.jpg",
+      "image_0011.jpg",
+      "image_0007.jpg",
+      "image_0005.jpg",
+      "image_0006.jpg",
+      "image_0010.jpg",
+      "image_0004.jpg",
+      "image_0008.jpg",
+      "image_0009.jpg",
+      "image_0001.jpg",
+      "image_0013.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_830a6674",
+    "total_images": 14,
+    "flagged_images": [
+      {
+        "file_name": "image_0012.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0013.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0014.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0012.jpg",
+      "image_0013.jpg",
+      "image_0014.jpg",
+      "image_0006.jpg",
+      "image_0002.jpg",
+      "image_0010.jpg",
+      "image_0007.jpg",
+      "image_0005.jpg",
+      "image_0001.jpg",
+      "image_0011.jpg",
+      "image_0008.jpg",
+      "image_0009.jpg",
+      "image_0003.jpg",
+      "image_0004.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_830ca989",
+    "total_images": 19,
+    "flagged_images": [
+      {
+        "file_name": "image_0002.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0001.jpg",
+        "suspicion_score": 0.8623,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0017.jpg",
+        "suspicion_score": 0.7276,
+        "reason": "Moderate visual inconsistency — divergent edge geometry and storefront structural lines compared to typical outlet visits"
+      }
+    ],
+    "ranking": [
+      "image_0002.jpg",
+      "image_0001.jpg",
+      "image_0017.jpg",
+      "image_0014.jpg",
+      "image_0012.jpg",
+      "image_0019.jpg",
+      "image_0003.jpg",
+      "image_0018.jpg",
+      "image_0013.jpg",
+      "image_0016.jpg",
+      "image_0006.jpg",
+      "image_0005.jpg",
+      "image_0004.jpg",
+      "image_0015.jpg",
+      "image_0010.jpg",
+      "image_0011.jpg",
+      "image_0007.jpg",
+      "image_0009.jpg",
+      "image_0008.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_8543b5b4",
+    "total_images": 10,
+    "flagged_images": [
+      {
+        "file_name": "image_0004_1.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0004_1.jpg",
+      "image_0004.jpg",
+      "image_0002_1.jpg",
+      "image_0006.jpg",
+      "image_0001_1.jpg",
+      "image_0003_1.jpg",
+      "image_0001.jpg",
+      "image_0005.jpg",
+      "image_0002.jpg",
+      "image_0003.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_867ffca6",
+    "total_images": 15,
+    "flagged_images": [
+      {
+        "file_name": "image_0011.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0003.jpg",
+        "suspicion_score": 0.8127,
+        "reason": "Moderate visual inconsistency — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0002.jpg",
+        "suspicion_score": 0.7881,
+        "reason": "Moderate visual inconsistency — distinct color palette and branding/signage mismatch, dissimilar overall scene composition and spatial layout compared to typical outlet visits"
+      }
+    ],
+    "ranking": [
+      "image_0011.jpg",
+      "image_0003.jpg",
+      "image_0002.jpg",
+      "image_0006.jpg",
+      "image_0009.jpg",
+      "image_0015.jpg",
+      "image_0013.jpg",
+      "image_0012.jpg",
+      "image_0005.jpg",
+      "image_0001.jpg",
+      "image_0004.jpg",
+      "image_0010.jpg",
+      "image_0008.jpg",
+      "image_0014.jpg",
+      "image_0007.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_875df2f2",
+    "total_images": 13,
+    "flagged_images": [
+      {
+        "file_name": "image_0009.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0004.jpg",
+        "suspicion_score": 0.4624,
+        "reason": "Minor anomaly — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0006.jpg",
+        "suspicion_score": 0.4054,
+        "reason": "Minor anomaly — low visual similarity to the outlet's historical photo cluster relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0009.jpg",
+      "image_0004.jpg",
+      "image_0006.jpg",
+      "image_0008.jpg",
+      "image_0007.jpg",
+      "image_0001.jpg",
+      "image_0005.jpg",
+      "image_0012.jpg",
+      "image_0013.jpg",
+      "image_0010.jpg",
+      "image_0011.jpg",
+      "image_0003.jpg",
+      "image_0002.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_89fe040d",
+    "total_images": 25,
+    "flagged_images": [
+      {
+        "file_name": "image_0010.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0008.jpg",
+        "suspicion_score": 0.7831,
+        "reason": "Moderate visual inconsistency — dissimilar overall scene composition and spatial layout compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0007.jpg",
+        "suspicion_score": 0.713,
+        "reason": "Moderate visual inconsistency — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0002.jpg",
+        "suspicion_score": 0.6296,
+        "reason": "Minor anomaly — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0003.jpg",
+        "suspicion_score": 0.4567,
+        "reason": "Minor anomaly — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0004.jpg",
+        "suspicion_score": 0.4514,
+        "reason": "Minor anomaly — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0016.jpg",
+        "suspicion_score": 0.4339,
+        "reason": "Minor anomaly — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0009.jpg",
+        "suspicion_score": 0.3769,
+        "reason": "Minor anomaly — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0010.jpg",
+      "image_0008.jpg",
+      "image_0007.jpg",
+      "image_0002.jpg",
+      "image_0003.jpg",
+      "image_0004.jpg",
+      "image_0016.jpg",
+      "image_0009.jpg",
+      "image_0023.jpg",
+      "image_0001.jpg",
+      "image_0020.jpg",
+      "image_0013.jpg",
+      "image_0024.jpg",
+      "image_0005.jpg",
+      "image_0006.jpg",
+      "image_0011.jpg",
+      "image_0025.jpg",
+      "image_0022.jpg",
+      "image_0015.jpg",
+      "image_0019.jpg",
+      "image_0017.jpg",
+      "image_0012.jpg",
+      "image_0014.jpg",
+      "image_0021.jpg",
+      "image_0018.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_8c4b499e",
+    "total_images": 9,
+    "flagged_images": [
+      {
+        "file_name": "image_0001.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0002.jpg",
+        "suspicion_score": 0.6956,
+        "reason": "Moderate visual inconsistency — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0006.jpg",
+        "suspicion_score": 0.5812,
+        "reason": "Minor anomaly — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0001.jpg",
+      "image_0002.jpg",
+      "image_0006.jpg",
+      "image_0003.jpg",
+      "image_0008.jpg",
+      "image_0007.jpg",
+      "image_0009.jpg",
+      "image_0004.jpg",
+      "image_0005.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_8cae84d2",
+    "total_images": 8,
+    "flagged_images": [
+      {
+        "file_name": "image_0005.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0003.jpg",
+        "suspicion_score": 0.7768,
+        "reason": "Moderate visual inconsistency — divergent edge geometry and storefront structural lines compared to typical outlet visits"
+      }
+    ],
+    "ranking": [
+      "image_0005.jpg",
+      "image_0003.jpg",
+      "image_0006.jpg",
+      "image_0007.jpg",
+      "image_0004.jpg",
+      "image_0008.jpg",
+      "image_0002.jpg",
+      "image_0001.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_927fbbbb",
+    "total_images": 8,
+    "flagged_images": [
+      {
+        "file_name": "image_0001_1.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0001_1.jpg",
+      "image_0005.jpg",
+      "image_0006.jpg",
+      "image_0001.jpg",
+      "image_0002_1.jpg",
+      "image_0004.jpg",
+      "image_0002.jpg",
+      "image_0003.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_9486512c",
+    "total_images": 8,
+    "flagged_images": [
+      {
+        "file_name": "image_0002.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0005.jpg",
+        "suspicion_score": 0.6858,
+        "reason": "Moderate visual inconsistency — low visual similarity to the outlet's historical photo cluster compared to typical outlet visits"
+      }
+    ],
+    "ranking": [
+      "image_0002.jpg",
+      "image_0005.jpg",
+      "image_0001.jpg",
+      "image_0004.jpg",
+      "image_0006.jpg",
+      "image_0007.jpg",
+      "image_0008.jpg",
+      "image_0003.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_94a1339f",
+    "total_images": 12,
+    "flagged_images": [
+      {
+        "file_name": "image_0012.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0003.jpg",
+        "suspicion_score": 0.5067,
+        "reason": "Minor anomaly — distinct color palette and branding/signage mismatch relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0001.jpg",
+        "suspicion_score": 0.4311,
+        "reason": "Minor anomaly — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0002.jpg",
+        "suspicion_score": 0.3292,
+        "reason": "Minor anomaly — low visual similarity to the outlet's historical photo cluster relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0012.jpg",
+      "image_0003.jpg",
+      "image_0001.jpg",
+      "image_0002.jpg",
+      "image_0009.jpg",
+      "image_0005.jpg",
+      "image_0008.jpg",
+      "image_0007.jpg",
+      "image_0006.jpg",
+      "image_0010.jpg",
+      "image_0011.jpg",
+      "image_0004.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_95569b27",
+    "total_images": 11,
+    "flagged_images": [
+      {
+        "file_name": "image_0005.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0003.jpg",
+        "suspicion_score": 0.3749,
+        "reason": "Minor anomaly — dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0005.jpg",
+      "image_0003.jpg",
+      "image_0011.jpg",
+      "image_0004.jpg",
+      "image_0006.jpg",
+      "image_0009.jpg",
+      "image_0008.jpg",
+      "image_0002.jpg",
+      "image_0007.jpg",
+      "image_0010.jpg",
+      "image_0001.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_956b57b6",
+    "total_images": 7,
+    "flagged_images": [
+      {
+        "file_name": "image_0003.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0001.jpg",
+        "suspicion_score": 0.7858,
+        "reason": "Moderate visual inconsistency — distinct color palette and branding/signage mismatch compared to typical outlet visits"
+      }
+    ],
+    "ranking": [
+      "image_0003.jpg",
+      "image_0001.jpg",
+      "image_0004.jpg",
+      "image_0006.jpg",
+      "image_0005.jpg",
+      "image_0007.jpg",
+      "image_0002.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_9587ffc0",
+    "total_images": 12,
+    "flagged_images": [
+      {
+        "file_name": "image_0001.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0003.jpg",
+        "suspicion_score": 0.3667,
+        "reason": "Minor anomaly — divergent edge geometry and storefront structural lines relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0001.jpg",
+      "image_0003.jpg",
+      "image_0006.jpg",
+      "image_0002.jpg",
+      "image_0004.jpg",
+      "image_0011.jpg",
+      "image_0009.jpg",
+      "image_0012.jpg",
+      "image_0008.jpg",
+      "image_0010.jpg",
+      "image_0005.jpg",
+      "image_0007.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_96903c66",
+    "total_images": 18,
+    "flagged_images": [
+      {
+        "file_name": "image_0017.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0014.jpg",
+        "suspicion_score": 0.7878,
+        "reason": "Moderate visual inconsistency — distinct color palette and branding/signage mismatch compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0018.jpg",
+        "suspicion_score": 0.6669,
+        "reason": "Moderate visual inconsistency — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines compared to typical outlet visits"
+      }
+    ],
+    "ranking": [
+      "image_0017.jpg",
+      "image_0014.jpg",
+      "image_0018.jpg",
+      "image_0013.jpg",
+      "image_0015.jpg",
+      "image_0001.jpg",
+      "image_0002.jpg",
+      "image_0007.jpg",
+      "image_0008.jpg",
+      "image_0009.jpg",
+      "image_0012.jpg",
+      "image_0005.jpg",
+      "image_0006.jpg",
+      "image_0016.jpg",
+      "image_0003.jpg",
+      "image_0004.jpg",
+      "image_0010.jpg",
+      "image_0011.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_9c031b9b",
+    "total_images": 19,
+    "flagged_images": [
+      {
+        "file_name": "image_0002_1.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0003_1.jpg",
+        "suspicion_score": 0.7075,
+        "reason": "Moderate visual inconsistency — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0001_1.jpg",
+        "suspicion_score": 0.6783,
+        "reason": "Moderate visual inconsistency — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0004_1.jpg",
+        "suspicion_score": 0.4906,
+        "reason": "Minor anomaly — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0002_1.jpg",
+      "image_0003_1.jpg",
+      "image_0001_1.jpg",
+      "image_0004_1.jpg",
+      "image_0001.jpg",
+      "image_0014.jpg",
+      "image_0015.jpg",
+      "image_0012.jpg",
+      "image_0005.jpg",
+      "image_0006.jpg",
+      "image_0007.jpg",
+      "image_0003.jpg",
+      "image_0009.jpg",
+      "image_0008.jpg",
+      "image_0013.jpg",
+      "image_0002.jpg",
+      "image_0011.jpg",
+      "image_0010.jpg",
+      "image_0004.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_9e5d2ebe",
+    "total_images": 9,
+    "flagged_images": [
+      {
+        "file_name": "image_0002.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — low visual similarity to the outlet's historical photo cluster; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0001.jpg",
+        "suspicion_score": 0.7466,
+        "reason": "Moderate visual inconsistency — divergent edge geometry and storefront structural lines compared to typical outlet visits"
+      }
+    ],
+    "ranking": [
+      "image_0002.jpg",
+      "image_0001.jpg",
+      "image_0003.jpg",
+      "image_0005.jpg",
+      "image_0009.jpg",
+      "image_0006.jpg",
+      "image_0007.jpg",
+      "image_0004.jpg",
+      "image_0008.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_9f1d1b48",
+    "total_images": 22,
+    "flagged_images": [
+      {
+        "file_name": "image_0006.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0008.jpg",
+        "suspicion_score": 0.7991,
+        "reason": "Moderate visual inconsistency — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0007.jpg",
+        "suspicion_score": 0.7627,
+        "reason": "Moderate visual inconsistency — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0003.jpg",
+        "suspicion_score": 0.7209,
+        "reason": "Moderate visual inconsistency — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0003_1.jpg",
+        "suspicion_score": 0.6024,
+        "reason": "Minor anomaly — distinct color palette and branding/signage mismatch, dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0002_1.jpg",
+        "suspicion_score": 0.5184,
+        "reason": "Minor anomaly — distinct color palette and branding/signage mismatch, dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0004_1.jpg",
+        "suspicion_score": 0.4952,
+        "reason": "Minor anomaly — distinct color palette and branding/signage mismatch relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0001_1.jpg",
+        "suspicion_score": 0.4378,
+        "reason": "Minor anomaly — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0006.jpg",
+      "image_0008.jpg",
+      "image_0007.jpg",
+      "image_0003.jpg",
+      "image_0003_1.jpg",
+      "image_0002_1.jpg",
+      "image_0004_1.jpg",
+      "image_0001_1.jpg",
+      "image_0002.jpg",
+      "image_0017.jpg",
+      "image_0018.jpg",
+      "image_0009.jpg",
+      "image_0013.jpg",
+      "image_0001.jpg",
+      "image_0015.jpg",
+      "image_0011.jpg",
+      "image_0016.jpg",
+      "image_0012.jpg",
+      "image_0010.jpg",
+      "image_0014.jpg",
+      "image_0004.jpg",
+      "image_0005.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_aa2e6f06",
+    "total_images": 7,
+    "flagged_images": [],
+    "ranking": [
+      "image_0001.jpg",
+      "image_0004.jpg",
+      "image_0002.jpg",
+      "image_0003.jpg",
+      "image_0007.jpg",
+      "image_0005.jpg",
+      "image_0006.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_aa55187a",
+    "total_images": 15,
+    "flagged_images": [
+      {
+        "file_name": "image_0003_1.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0001_1_1.jpg",
+        "suspicion_score": 0.9407,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0002_1.jpg",
+        "suspicion_score": 0.6546,
+        "reason": "Moderate visual inconsistency — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0001_1.jpg",
+        "suspicion_score": 0.6511,
+        "reason": "Moderate visual inconsistency — distinct color palette and branding/signage mismatch compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0002.jpg",
+        "suspicion_score": 0.6174,
+        "reason": "Minor anomaly — dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0003_1.jpg",
+      "image_0001_1_1.jpg",
+      "image_0002_1.jpg",
+      "image_0001_1.jpg",
+      "image_0002.jpg",
+      "image_0004.jpg",
+      "image_0009.jpg",
+      "image_0005.jpg",
+      "image_0007.jpg",
+      "image_0001.jpg",
+      "image_0008.jpg",
+      "image_0003.jpg",
+      "image_0011.jpg",
+      "image_0006.jpg",
+      "image_0010.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_aa9c72d7",
+    "total_images": 20,
+    "flagged_images": [
+      {
+        "file_name": "image_0006.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0005.jpg",
+        "suspicion_score": 0.6078,
+        "reason": "Minor anomaly — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0013.jpg",
+        "suspicion_score": 0.2359,
+        "reason": "Minor anomaly — dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0014.jpg",
+        "suspicion_score": 0.2336,
+        "reason": "Minor anomaly — dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0006.jpg",
+      "image_0005.jpg",
+      "image_0013.jpg",
+      "image_0014.jpg",
+      "image_0017.jpg",
+      "image_0015.jpg",
+      "image_0012.jpg",
+      "image_0008.jpg",
+      "image_0010.jpg",
+      "image_0020.jpg",
+      "image_0002.jpg",
+      "image_0018.jpg",
+      "image_0009.jpg",
+      "image_0016.jpg",
+      "image_0004.jpg",
+      "image_0011.jpg",
+      "image_0001.jpg",
+      "image_0003.jpg",
+      "image_0019.jpg",
+      "image_0007.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_ab1e8a98",
+    "total_images": 10,
+    "flagged_images": [
+      {
+        "file_name": "image_0001.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0001.jpg",
+      "image_0006.jpg",
+      "image_0010.jpg",
+      "image_0007.jpg",
+      "image_0008.jpg",
+      "image_0009.jpg",
+      "image_0003.jpg",
+      "image_0002.jpg",
+      "image_0004.jpg",
+      "image_0005.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_abd3f7bb",
+    "total_images": 9,
+    "flagged_images": [
+      {
+        "file_name": "image_0001.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      }
+    ],
+    "ranking": [
+      "image_0001.jpg",
+      "image_0006.jpg",
+      "image_0007.jpg",
+      "image_0008.jpg",
+      "image_0002.jpg",
+      "image_0005.jpg",
+      "image_0009.jpg",
+      "image_0003.jpg",
+      "image_0004.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_ac1973a7",
+    "total_images": 12,
+    "flagged_images": [
+      {
+        "file_name": "image_0012.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0009.jpg",
+        "suspicion_score": 0.3123,
+        "reason": "Minor anomaly — distinct color palette and branding/signage mismatch relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0007.jpg",
+        "suspicion_score": 0.1773,
+        "reason": "Minor anomaly — low visual similarity to the outlet's historical photo cluster relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0012.jpg",
+      "image_0009.jpg",
+      "image_0007.jpg",
+      "image_0003.jpg",
+      "image_0002.jpg",
+      "image_0001.jpg",
+      "image_0005.jpg",
+      "image_0011.jpg",
+      "image_0010.jpg",
+      "image_0008.jpg",
+      "image_0006.jpg",
+      "image_0004.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_ac589c16",
+    "total_images": 6,
+    "flagged_images": [
+      {
+        "file_name": "image_0002.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      }
+    ],
+    "ranking": [
+      "image_0002.jpg",
+      "image_0006.jpg",
+      "image_0004.jpg",
+      "image_0003.jpg",
+      "image_0001.jpg",
+      "image_0005.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_ac5f17a2",
+    "total_images": 40,
+    "flagged_images": [
+      {
+        "file_name": "image_0036.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0036.jpg",
+      "image_0035.jpg",
+      "image_0033.jpg",
+      "image_0001.jpg",
+      "image_0032.jpg",
+      "image_0034.jpg",
+      "image_0030.jpg",
+      "image_0010.jpg",
+      "image_0039.jpg",
+      "image_0008.jpg",
+      "image_0016.jpg",
+      "image_0024.jpg",
+      "image_0038.jpg",
+      "image_0013.jpg",
+      "image_0031.jpg",
+      "image_0037.jpg",
+      "image_0006.jpg",
+      "image_0004.jpg",
+      "image_0023.jpg",
+      "image_0009.jpg",
+      "image_0002.jpg",
+      "image_0019.jpg",
+      "image_0003.jpg",
+      "image_0017.jpg",
+      "image_0005.jpg",
+      "image_0040.jpg",
+      "image_0012.jpg",
+      "image_0014.jpg",
+      "image_0021.jpg",
+      "image_0011.jpg",
+      "image_0028.jpg",
+      "image_0022.jpg",
+      "image_0027.jpg",
+      "image_0015.jpg",
+      "image_0025.jpg",
+      "image_0007.jpg",
+      "image_0026.jpg",
+      "image_0018.jpg",
+      "image_0020.jpg",
+      "image_0029.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_ac904859",
+    "total_images": 12,
+    "flagged_images": [],
+    "ranking": [
+      "image_0002_1.jpg",
+      "image_0003_1.jpg",
+      "image_0001_1.jpg",
+      "image_0004.jpg",
+      "image_0008.jpg",
+      "image_0005.jpg",
+      "image_0006.jpg",
+      "image_0007.jpg",
+      "image_0001.jpg",
+      "image_0009.jpg",
+      "image_0003.jpg",
+      "image_0002.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_acf74822",
+    "total_images": 15,
+    "flagged_images": [
+      {
+        "file_name": "image_0007.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — low visual similarity to the outlet's historical photo cluster; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0012.jpg",
+        "suspicion_score": 0.7363,
+        "reason": "Moderate visual inconsistency — divergent edge geometry and storefront structural lines compared to typical outlet visits"
+      }
+    ],
+    "ranking": [
+      "image_0007.jpg",
+      "image_0012.jpg",
+      "image_0003.jpg",
+      "image_0010.jpg",
+      "image_0009.jpg",
+      "image_0014.jpg",
+      "image_0001.jpg",
+      "image_0004.jpg",
+      "image_0013.jpg",
+      "image_0015.jpg",
+      "image_0006.jpg",
+      "image_0008.jpg",
+      "image_0011.jpg",
+      "image_0005.jpg",
+      "image_0002.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_ad9690eb",
+    "total_images": 17,
+    "flagged_images": [
+      {
+        "file_name": "image_0003.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0007.jpg",
+        "suspicion_score": 0.8025,
+        "reason": "Moderate visual inconsistency — dissimilar overall scene composition and spatial layout compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0017.jpg",
+        "suspicion_score": 0.5289,
+        "reason": "Minor anomaly — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0003.jpg",
+      "image_0007.jpg",
+      "image_0017.jpg",
+      "image_0008.jpg",
+      "image_0016.jpg",
+      "image_0014.jpg",
+      "image_0004.jpg",
+      "image_0010.jpg",
+      "image_0015.jpg",
+      "image_0012.jpg",
+      "image_0001.jpg",
+      "image_0013.jpg",
+      "image_0002.jpg",
+      "image_0005.jpg",
+      "image_0011.jpg",
+      "image_0006.jpg",
+      "image_0009.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_aeaf0389",
+    "total_images": 6,
+    "flagged_images": [
+      {
+        "file_name": "image_0001.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0001.jpg",
+      "image_0006.jpg",
+      "image_0003.jpg",
+      "image_0002.jpg",
+      "image_0004.jpg",
+      "image_0005.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_b2d035ee",
+    "total_images": 15,
+    "flagged_images": [
+      {
+        "file_name": "image_0013.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0001.jpg",
+        "suspicion_score": 0.9732,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0008.jpg",
+        "suspicion_score": 0.8406,
+        "reason": "Moderate visual inconsistency — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0012.jpg",
+        "suspicion_score": 0.8301,
+        "reason": "Moderate visual inconsistency — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines compared to typical outlet visits"
+      }
+    ],
+    "ranking": [
+      "image_0013.jpg",
+      "image_0001.jpg",
+      "image_0008.jpg",
+      "image_0012.jpg",
+      "image_0009.jpg",
+      "image_0007.jpg",
+      "image_0015.jpg",
+      "image_0011.jpg",
+      "image_0002.jpg",
+      "image_0003.jpg",
+      "image_0014.jpg",
+      "image_0005.jpg",
+      "image_0010.jpg",
+      "image_0004.jpg",
+      "image_0006.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_b6409886",
+    "total_images": 10,
+    "flagged_images": [
+      {
+        "file_name": "image_0002_1.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0002_1.jpg",
+      "image_0007.jpg",
+      "image_0001.jpg",
+      "image_0005.jpg",
+      "image_0002.jpg",
+      "image_0003.jpg",
+      "image_0008.jpg",
+      "image_0006.jpg",
+      "image_0001_1.jpg",
+      "image_0004.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_ba2e645b",
+    "total_images": 14,
+    "flagged_images": [
+      {
+        "file_name": "image_0009.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0005.jpg",
+        "suspicion_score": 0.4117,
+        "reason": "Minor anomaly — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0009.jpg",
+      "image_0005.jpg",
+      "image_0003.jpg",
+      "image_0014.jpg",
+      "image_0013.jpg",
+      "image_0002.jpg",
+      "image_0004.jpg",
+      "image_0012.jpg",
+      "image_0006.jpg",
+      "image_0011.jpg",
+      "image_0010.jpg",
+      "image_0007.jpg",
+      "image_0008.jpg",
+      "image_0001.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_bb8db053",
+    "total_images": 13,
+    "flagged_images": [
+      {
+        "file_name": "image_0004.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0011.jpg",
+        "suspicion_score": 0.4205,
+        "reason": "Minor anomaly — dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0004.jpg",
+      "image_0011.jpg",
+      "image_0013.jpg",
+      "image_0006.jpg",
+      "image_0007.jpg",
+      "image_0002.jpg",
+      "image_0003.jpg",
+      "image_0005.jpg",
+      "image_0001.jpg",
+      "image_0010.jpg",
+      "image_0008.jpg",
+      "image_0009.jpg",
+      "image_0012.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_c0381d55",
+    "total_images": 8,
+    "flagged_images": [
+      {
+        "file_name": "image_0001.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0006.jpg",
+        "suspicion_score": 0.9468,
+        "reason": "Highly anomalous image — dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0002.jpg",
+        "suspicion_score": 0.8356,
+        "reason": "Moderate visual inconsistency — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout compared to typical outlet visits"
+      }
+    ],
+    "ranking": [
+      "image_0001.jpg",
+      "image_0006.jpg",
+      "image_0002.jpg",
+      "image_0007.jpg",
+      "image_0008.jpg",
+      "image_0004.jpg",
+      "image_0003.jpg",
+      "image_0005.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_c2181b07",
+    "total_images": 18,
+    "flagged_images": [
+      {
+        "file_name": "image_0003_1.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0002_1.jpg",
+        "suspicion_score": 0.7318,
+        "reason": "Moderate visual inconsistency — dissimilar overall scene composition and spatial layout compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0004_1.jpg",
+        "suspicion_score": 0.4718,
+        "reason": "Minor anomaly — dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0001_1.jpg",
+        "suspicion_score": 0.3775,
+        "reason": "Minor anomaly — distinct color palette and branding/signage mismatch relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0002.jpg",
+        "suspicion_score": 0.2119,
+        "reason": "Minor anomaly — divergent edge geometry and storefront structural lines relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0003_1.jpg",
+      "image_0002_1.jpg",
+      "image_0004_1.jpg",
+      "image_0001_1.jpg",
+      "image_0002.jpg",
+      "image_0001.jpg",
+      "image_0010.jpg",
+      "image_0003.jpg",
+      "image_0006.jpg",
+      "image_0007.jpg",
+      "image_0013.jpg",
+      "image_0012.jpg",
+      "image_0005.jpg",
+      "image_0011.jpg",
+      "image_0009.jpg",
+      "image_0014.jpg",
+      "image_0008.jpg",
+      "image_0004.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_c2fefbb3",
+    "total_images": 8,
+    "flagged_images": [],
+    "ranking": [
+      "image_0008.jpg",
+      "image_0001.jpg",
+      "image_0003.jpg",
+      "image_0002.jpg",
+      "image_0007.jpg",
+      "image_0005.jpg",
+      "image_0004.jpg",
+      "image_0006.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_c3b06be2",
+    "total_images": 9,
+    "flagged_images": [
+      {
+        "file_name": "image_0008.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0009.jpg",
+        "suspicion_score": 0.9823,
+        "reason": "Highly anomalous image — low visual similarity to the outlet's historical photo cluster; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0008.jpg",
+      "image_0009.jpg",
+      "image_0003.jpg",
+      "image_0006.jpg",
+      "image_0001.jpg",
+      "image_0007.jpg",
+      "image_0002.jpg",
+      "image_0005.jpg",
+      "image_0004.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_c41e54d1",
+    "total_images": 15,
+    "flagged_images": [
+      {
+        "file_name": "image_0002.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0002.jpg",
+      "image_0014.jpg",
+      "image_0012.jpg",
+      "image_0006.jpg",
+      "image_0010.jpg",
+      "image_0003.jpg",
+      "image_0001.jpg",
+      "image_0005.jpg",
+      "image_0004.jpg",
+      "image_0015.jpg",
+      "image_0013.jpg",
+      "image_0011.jpg",
+      "image_0009.jpg",
+      "image_0007.jpg",
+      "image_0008.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_c45b06f5",
+    "total_images": 13,
+    "flagged_images": [],
+    "ranking": [
+      "image_0007.jpg",
+      "image_0001.jpg",
+      "image_0003.jpg",
+      "image_0002.jpg",
+      "image_0011.jpg",
+      "image_0008.jpg",
+      "image_0013.jpg",
+      "image_0010.jpg",
+      "image_0005.jpg",
+      "image_0006.jpg",
+      "image_0012.jpg",
+      "image_0009.jpg",
+      "image_0004.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_c816ff76",
+    "total_images": 13,
+    "flagged_images": [
+      {
+        "file_name": "image_0001_1.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0001_1.jpg",
+      "image_0010.jpg",
+      "image_0008.jpg",
+      "image_0009.jpg",
+      "image_0011.jpg",
+      "image_0004.jpg",
+      "image_0012.jpg",
+      "image_0006.jpg",
+      "image_0007.jpg",
+      "image_0002.jpg",
+      "image_0003.jpg",
+      "image_0005.jpg",
+      "image_0001.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_c9465127",
+    "total_images": 11,
+    "flagged_images": [
+      {
+        "file_name": "image_0003.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0009.jpg",
+        "suspicion_score": 0.9407,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0002.jpg",
+        "suspicion_score": 0.9032,
+        "reason": "Highly anomalous image — dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      }
+    ],
+    "ranking": [
+      "image_0003.jpg",
+      "image_0009.jpg",
+      "image_0002.jpg",
+      "image_0011.jpg",
+      "image_0001.jpg",
+      "image_0010.jpg",
+      "image_0008.jpg",
+      "image_0005.jpg",
+      "image_0004.jpg",
+      "image_0006.jpg",
+      "image_0007.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_ccbf4451",
+    "total_images": 9,
+    "flagged_images": [],
+    "ranking": [
+      "image_0009.jpg",
+      "image_0007.jpg",
+      "image_0001.jpg",
+      "image_0005.jpg",
+      "image_0002.jpg",
+      "image_0004.jpg",
+      "image_0006.jpg",
+      "image_0003.jpg",
+      "image_0008.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_cf8dc0e2",
+    "total_images": 11,
+    "flagged_images": [
+      {
+        "file_name": "image_0007.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      }
+    ],
+    "ranking": [
+      "image_0007.jpg",
+      "image_0002_1.jpg",
+      "image_0001_1.jpg",
+      "image_0008.jpg",
+      "image_0001.jpg",
+      "image_0006.jpg",
+      "image_0002.jpg",
+      "image_0003.jpg",
+      "image_0004.jpg",
+      "image_0009.jpg",
+      "image_0005.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_d1358ee8",
+    "total_images": 6,
+    "flagged_images": [
+      {
+        "file_name": "image_0006.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0006.jpg",
+      "image_0001.jpg",
+      "image_0003.jpg",
+      "image_0005.jpg",
+      "image_0002.jpg",
+      "image_0004.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_d24e34d8",
+    "total_images": 6,
+    "flagged_images": [],
+    "ranking": [
+      "image_0004.jpg",
+      "image_0001.jpg",
+      "image_0003.jpg",
+      "image_0005.jpg",
+      "image_0006.jpg",
+      "image_0002.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_d301c743",
+    "total_images": 6,
+    "flagged_images": [
+      {
+        "file_name": "image_0004.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      }
+    ],
+    "ranking": [
+      "image_0004.jpg",
+      "image_0002.jpg",
+      "image_0001.jpg",
+      "image_0003.jpg",
+      "image_0005.jpg",
+      "image_0006.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_d371a9c7",
+    "total_images": 6,
+    "flagged_images": [],
+    "ranking": [
+      "image_0006.jpg",
+      "image_0005.jpg",
+      "image_0002.jpg",
+      "image_0003.jpg",
+      "image_0001.jpg",
+      "image_0004.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_d41a1422",
+    "total_images": 8,
+    "flagged_images": [],
+    "ranking": [
+      "image_0003.jpg",
+      "image_0002_1.jpg",
+      "image_0001.jpg",
+      "image_0006.jpg",
+      "image_0001_1.jpg",
+      "image_0002.jpg",
+      "image_0004.jpg",
+      "image_0005.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_d5d1af09",
+    "total_images": 7,
+    "flagged_images": [],
+    "ranking": [
+      "image_0006.jpg",
+      "image_0004.jpg",
+      "image_0002.jpg",
+      "image_0001.jpg",
+      "image_0007.jpg",
+      "image_0003.jpg",
+      "image_0005.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_d8c2f00a",
+    "total_images": 12,
+    "flagged_images": [
+      {
+        "file_name": "image_0012.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0012.jpg",
+      "image_0001.jpg",
+      "image_0008.jpg",
+      "image_0005.jpg",
+      "image_0009.jpg",
+      "image_0007.jpg",
+      "image_0006.jpg",
+      "image_0010.jpg",
+      "image_0003.jpg",
+      "image_0011.jpg",
+      "image_0004.jpg",
+      "image_0002.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_d993a28a",
+    "total_images": 27,
+    "flagged_images": [
+      {
+        "file_name": "image_0012.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0015.jpg",
+        "suspicion_score": 0.687,
+        "reason": "Moderate visual inconsistency — divergent edge geometry and storefront structural lines compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0023.jpg",
+        "suspicion_score": 0.5791,
+        "reason": "Minor anomaly — dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0027.jpg",
+        "suspicion_score": 0.433,
+        "reason": "Minor anomaly — low visual similarity to the outlet's historical photo cluster relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0012.jpg",
+      "image_0015.jpg",
+      "image_0023.jpg",
+      "image_0027.jpg",
+      "image_0020.jpg",
+      "image_0024.jpg",
+      "image_0013.jpg",
+      "image_0008.jpg",
+      "image_0016.jpg",
+      "image_0021.jpg",
+      "image_0001.jpg",
+      "image_0019.jpg",
+      "image_0014.jpg",
+      "image_0011.jpg",
+      "image_0018.jpg",
+      "image_0022.jpg",
+      "image_0004.jpg",
+      "image_0007.jpg",
+      "image_0002.jpg",
+      "image_0003.jpg",
+      "image_0026.jpg",
+      "image_0010.jpg",
+      "image_0025.jpg",
+      "image_0009.jpg",
+      "image_0017.jpg",
+      "image_0005.jpg",
+      "image_0006.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_db0cff8a",
+    "total_images": 16,
+    "flagged_images": [
+      {
+        "file_name": "image_0002.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0002.jpg",
+      "image_0007.jpg",
+      "image_0013.jpg",
+      "image_0014.jpg",
+      "image_0005.jpg",
+      "image_0015.jpg",
+      "image_0001.jpg",
+      "image_0010.jpg",
+      "image_0003.jpg",
+      "image_0012.jpg",
+      "image_0016.jpg",
+      "image_0006.jpg",
+      "image_0004.jpg",
+      "image_0008.jpg",
+      "image_0009.jpg",
+      "image_0011.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_de743a96",
+    "total_images": 11,
+    "flagged_images": [
+      {
+        "file_name": "image_0002.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0002.jpg",
+      "image_0009.jpg",
+      "image_0011.jpg",
+      "image_0006.jpg",
+      "image_0010.jpg",
+      "image_0004.jpg",
+      "image_0003.jpg",
+      "image_0005.jpg",
+      "image_0001.jpg",
+      "image_0008.jpg",
+      "image_0007.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_def72cf4",
+    "total_images": 15,
+    "flagged_images": [
+      {
+        "file_name": "image_0001.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0001_1.jpg",
+        "suspicion_score": 0.4029,
+        "reason": "Minor anomaly — distinct color palette and branding/signage mismatch relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0001.jpg",
+      "image_0001_1.jpg",
+      "image_0007.jpg",
+      "image_0008.jpg",
+      "image_0003.jpg",
+      "image_0011.jpg",
+      "image_0009.jpg",
+      "image_0006.jpg",
+      "image_0010.jpg",
+      "image_0005.jpg",
+      "image_0014.jpg",
+      "image_0013.jpg",
+      "image_0012.jpg",
+      "image_0002.jpg",
+      "image_0004.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_e1278646",
+    "total_images": 13,
+    "flagged_images": [
+      {
+        "file_name": "image_0001_1.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0002.jpg",
+        "suspicion_score": 0.9304,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0001_1.jpg",
+      "image_0002.jpg",
+      "image_0003.jpg",
+      "image_0003_1.jpg",
+      "image_0005.jpg",
+      "image_0001.jpg",
+      "image_0007.jpg",
+      "image_0010.jpg",
+      "image_0008.jpg",
+      "image_0002_1.jpg",
+      "image_0004.jpg",
+      "image_0009.jpg",
+      "image_0006.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_e181d85d",
+    "total_images": 18,
+    "flagged_images": [
+      {
+        "file_name": "image_0012.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0003.jpg",
+        "suspicion_score": 0.9103,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0001_1.jpg",
+        "suspicion_score": 0.7412,
+        "reason": "Moderate visual inconsistency — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0003_1.jpg",
+        "suspicion_score": 0.6553,
+        "reason": "Moderate visual inconsistency — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0002_1.jpg",
+        "suspicion_score": 0.4725,
+        "reason": "Minor anomaly — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0012.jpg",
+      "image_0003.jpg",
+      "image_0001_1.jpg",
+      "image_0003_1.jpg",
+      "image_0002_1.jpg",
+      "image_0001.jpg",
+      "image_0007.jpg",
+      "image_0013.jpg",
+      "image_0008.jpg",
+      "image_0004.jpg",
+      "image_0015.jpg",
+      "image_0010.jpg",
+      "image_0002.jpg",
+      "image_0006.jpg",
+      "image_0011.jpg",
+      "image_0009.jpg",
+      "image_0014.jpg",
+      "image_0005.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_e3490c34",
+    "total_images": 13,
+    "flagged_images": [
+      {
+        "file_name": "image_0008.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0009.jpg",
+        "suspicion_score": 0.7643,
+        "reason": "Moderate visual inconsistency — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0010.jpg",
+        "suspicion_score": 0.7048,
+        "reason": "Moderate visual inconsistency — dissimilar overall scene composition and spatial layout compared to typical outlet visits"
+      }
+    ],
+    "ranking": [
+      "image_0008.jpg",
+      "image_0009.jpg",
+      "image_0010.jpg",
+      "image_0013.jpg",
+      "image_0002.jpg",
+      "image_0003.jpg",
+      "image_0012.jpg",
+      "image_0011.jpg",
+      "image_0006.jpg",
+      "image_0001.jpg",
+      "image_0005.jpg",
+      "image_0007.jpg",
+      "image_0004.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_e72326eb",
+    "total_images": 17,
+    "flagged_images": [
+      {
+        "file_name": "image_0016.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0015.jpg",
+        "suspicion_score": 0.7947,
+        "reason": "Moderate visual inconsistency — dissimilar overall scene composition and spatial layout compared to typical outlet visits"
+      },
+      {
+        "file_name": "image_0017.jpg",
+        "suspicion_score": 0.7218,
+        "reason": "Moderate visual inconsistency — dissimilar overall scene composition and spatial layout compared to typical outlet visits"
+      }
+    ],
+    "ranking": [
+      "image_0016.jpg",
+      "image_0015.jpg",
+      "image_0017.jpg",
+      "image_0014.jpg",
+      "image_0012.jpg",
+      "image_0001.jpg",
+      "image_0002.jpg",
+      "image_0013.jpg",
+      "image_0003.jpg",
+      "image_0011.jpg",
+      "image_0004.jpg",
+      "image_0010.jpg",
+      "image_0006.jpg",
+      "image_0005.jpg",
+      "image_0008.jpg",
+      "image_0007.jpg",
+      "image_0009.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_e9f9a70d",
+    "total_images": 16,
+    "flagged_images": [
+      {
+        "file_name": "image_0002.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0013.jpg",
+        "suspicion_score": 0.2346,
+        "reason": "Minor anomaly — divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0002.jpg",
+      "image_0013.jpg",
+      "image_0016.jpg",
+      "image_0008.jpg",
+      "image_0003.jpg",
+      "image_0001.jpg",
+      "image_0015.jpg",
+      "image_0006.jpg",
+      "image_0009.jpg",
+      "image_0010.jpg",
+      "image_0014.jpg",
+      "image_0007.jpg",
+      "image_0004.jpg",
+      "image_0011.jpg",
+      "image_0012.jpg",
+      "image_0005.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_ec938d8d",
+    "total_images": 10,
+    "flagged_images": [
+      {
+        "file_name": "image_0004.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      }
+    ],
+    "ranking": [
+      "image_0004.jpg",
+      "image_0003.jpg",
+      "image_0010.jpg",
+      "image_0002.jpg",
+      "image_0005.jpg",
+      "image_0009.jpg",
+      "image_0001.jpg",
+      "image_0006.jpg",
+      "image_0007.jpg",
+      "image_0008.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_ed090717",
+    "total_images": 9,
+    "flagged_images": [],
+    "ranking": [
+      "image_0004.jpg",
+      "image_0005.jpg",
+      "image_0001.jpg",
+      "image_0008.jpg",
+      "image_0002.jpg",
+      "image_0006.jpg",
+      "image_0009.jpg",
+      "image_0003.jpg",
+      "image_0007.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_eef1223c",
+    "total_images": 16,
+    "flagged_images": [
+      {
+        "file_name": "image_0008.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0001.jpg",
+        "suspicion_score": 0.6354,
+        "reason": "Minor anomaly — dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0005.jpg",
+        "suspicion_score": 0.4417,
+        "reason": "Minor anomaly — low visual similarity to the outlet's historical photo cluster relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0008.jpg",
+      "image_0001.jpg",
+      "image_0005.jpg",
+      "image_0016.jpg",
+      "image_0004.jpg",
+      "image_0012.jpg",
+      "image_0013.jpg",
+      "image_0002.jpg",
+      "image_0006.jpg",
+      "image_0003.jpg",
+      "image_0007.jpg",
+      "image_0010.jpg",
+      "image_0011.jpg",
+      "image_0014.jpg",
+      "image_0015.jpg",
+      "image_0009.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_ef7a091c",
+    "total_images": 6,
+    "flagged_images": [
+      {
+        "file_name": "image_0004.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      }
+    ],
+    "ranking": [
+      "image_0004.jpg",
+      "image_0002.jpg",
+      "image_0006.jpg",
+      "image_0005.jpg",
+      "image_0003.jpg",
+      "image_0001.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_f02e170e",
+    "total_images": 6,
+    "flagged_images": [],
+    "ranking": [
+      "image_0005.jpg",
+      "image_0004.jpg",
+      "image_0001.jpg",
+      "image_0003.jpg",
+      "image_0002.jpg",
+      "image_0006.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_f55150ab",
+    "total_images": 10,
+    "flagged_images": [],
+    "ranking": [
+      "image_0008.jpg",
+      "image_0005.jpg",
+      "image_0003.jpg",
+      "image_0004.jpg",
+      "image_0007.jpg",
+      "image_0002.jpg",
+      "image_0001.jpg",
+      "image_0009.jpg",
+      "image_0010.jpg",
+      "image_0006.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_f5ebfe3f",
+    "total_images": 9,
+    "flagged_images": [
+      {
+        "file_name": "image_0009.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — divergent edge geometry and storefront structural lines; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0009.jpg",
+      "image_0002.jpg",
+      "image_0001.jpg",
+      "image_0005.jpg",
+      "image_0003.jpg",
+      "image_0008.jpg",
+      "image_0006.jpg",
+      "image_0004.jpg",
+      "image_0007.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_f8b4c480",
+    "total_images": 13,
+    "flagged_images": [
+      {
+        "file_name": "image_0006.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — low visual similarity to the outlet's historical photo cluster; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0006.jpg",
+      "image_0003.jpg",
+      "image_0008.jpg",
+      "image_0010.jpg",
+      "image_0001.jpg",
+      "image_0012.jpg",
+      "image_0011.jpg",
+      "image_0002.jpg",
+      "image_0013.jpg",
+      "image_0004.jpg",
+      "image_0005.jpg",
+      "image_0009.jpg",
+      "image_0007.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_fe059a3c",
+    "total_images": 17,
+    "flagged_images": [
+      {
+        "file_name": "image_0005.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      },
+      {
+        "file_name": "image_0010.jpg",
+        "suspicion_score": 0.5117,
+        "reason": "Minor anomaly — dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0009.jpg",
+        "suspicion_score": 0.3379,
+        "reason": "Minor anomaly — dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      },
+      {
+        "file_name": "image_0007.jpg",
+        "suspicion_score": 0.3141,
+        "reason": "Minor anomaly — dissimilar overall scene composition and spatial layout relative to cluster centroid"
+      }
+    ],
+    "ranking": [
+      "image_0005.jpg",
+      "image_0010.jpg",
+      "image_0009.jpg",
+      "image_0007.jpg",
+      "image_0006.jpg",
+      "image_0014.jpg",
+      "image_0017.jpg",
+      "image_0001.jpg",
+      "image_0013.jpg",
+      "image_0012.jpg",
+      "image_0003.jpg",
+      "image_0015.jpg",
+      "image_0004.jpg",
+      "image_0008.jpg",
+      "image_0016.jpg",
+      "image_0002.jpg",
+      "image_0011.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_ff5c6fd3",
+    "total_images": 10,
+    "flagged_images": [
+      {
+        "file_name": "image_0005.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      },
+      {
+        "file_name": "image_0004.jpg",
+        "suspicion_score": 0.9615,
+        "reason": "Highly anomalous image — dissimilar overall scene composition and spatial layout; major visual discrepancy from the outlet's established identity"
+      }
+    ],
+    "ranking": [
+      "image_0005.jpg",
+      "image_0004.jpg",
+      "image_0010.jpg",
+      "image_0006.jpg",
+      "image_0009.jpg",
+      "image_0003.jpg",
+      "image_0007.jpg",
+      "image_0008.jpg",
+      "image_0002.jpg",
+      "image_0001.jpg"
+    ]
+  },
+  {
+    "outlet_id": "outlet_ffb4b10a",
+    "total_images": 7,
+    "flagged_images": [
+      {
+        "file_name": "image_0006.jpg",
+        "suspicion_score": 1.0,
+        "reason": "Highly anomalous image — distinct color palette and branding/signage mismatch, divergent edge geometry and storefront structural lines, dissimilar overall scene composition and spatial layout; unrelated to all other visits; likely a completely different location"
+      }
+    ],
+    "ranking": [
+      "image_0006.jpg",
+      "image_0007.jpg",
+      "image_0001.jpg",
+      "image_0004.jpg",
+      "image_0002.jpg",
+      "image_0005.jpg",
+      "image_0003.jpg"
+    ]
+  }
+]
